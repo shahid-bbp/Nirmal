@@ -1,0 +1,23 @@
+[
+  {
+    "stage": "origin",
+    "output": "dist/assets/matta-origin.png",
+    "source": "dist/assets/matta.png",
+    "prompt": "Use case: background-extraction.\nAsset type: one transparent PNG cutout for an existing rice website's scrolling animation.\nInput image: matta.png is the edit target. It contains three large rice grains against a brown backdrop.\nPrimary request: Extract ONLY the MIDDLE large closed golden husk grain (the intact unpeeled seed) into its own image. Preserve that grain's existing texture, warm golden husk/red-brown interior, shape and realistic lighting. Remove the background, the other two large grains and ALL small floating fragments.\nComposition: one fully visible grain centered on a square transparent canvas, with its long axis tilted from top-left to bottom-right about 35 degrees from vertical; grain fills about 85% of canvas height with clear padding at every edge. Match the input's intricate texture. Do not add anything.\nBackground must be genuinely transparent with alpha, not a checkerboard illustration or solid backdrop. No backdrop glow, ground, shadow, labels, lettering, watermark, border, or particles.",
+    "mode": "built-in image_gen"
+  },
+  {
+    "stage": "process",
+    "output": "dist/assets/matta-process.png",
+    "source": "dist/assets/matta.png",
+    "prompt": "Use case: background-extraction.\nAsset type: one transparent PNG cutout for an existing rice website's scrolling animation.\nInput image: matta.png is the edit target. It contains three large rice grains against a brown backdrop.\nPrimary request: Extract ONLY the LEFT large grain with two golden husk halves opened around the bright red kernel into its own image. Preserve that grain's existing texture, warm golden husk/red-brown interior, shape and realistic lighting. Remove the background, the other two large grains and ALL small floating fragments.\nComposition: one fully visible grain centered on a square transparent canvas, with its long axis tilted from top-left to bottom-right about 35 degrees from vertical; grain fills about 85% of canvas height with clear padding at every edge. Match the input's intricate texture. Do not add anything.\nBackground must be genuinely transparent with alpha, not a checkerboard illustration or solid backdrop. No backdrop glow, ground, shadow, labels, lettering, watermark, border, or particles.",
+    "mode": "built-in image_gen"
+  },
+  {
+    "stage": "promise",
+    "output": "dist/assets/matta-promise.png",
+    "source": "dist/assets/matta.png",
+    "prompt": "Use case: background-extraction.\nAsset type: one transparent PNG cutout for an existing rice website's scrolling animation.\nInput image: matta.png is the edit target. It contains three large rice grains against a brown backdrop.\nPrimary request: Extract ONLY the RIGHT large reddish grain with the thin peeling golden surface into its own image. Preserve that grain's existing texture, warm golden husk/red-brown interior, shape and realistic lighting. Remove the background, the other two large grains and ALL small floating fragments.\nComposition: one fully visible grain centered on a square transparent canvas, with its long axis tilted from top-left to bottom-right about 35 degrees from vertical; grain fills about 85% of canvas height with clear padding at every edge. Match the input's intricate texture. Do not add anything.\nBackground must be genuinely transparent with alpha, not a checkerboard illustration or solid backdrop. No backdrop glow, ground, shadow, labels, lettering, watermark, border, or particles.",
+    "mode": "built-in image_gen"
+  }
+]

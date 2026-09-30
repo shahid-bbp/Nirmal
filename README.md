@@ -36,7 +36,7 @@ python -m http.server 4173 --directory dist
 
 For the new **Our Story** page, open **http://localhost:4173/our-story.html**. See [OUR-STORY.md](OUR-STORY.md) for its animation, image/GIF assets, and verification details. The homepage grain animation below is separate.
 
-The page uses native scrolling, CSS sticky stages, and a single foreground grain. Scroll updates run through `requestAnimationFrame`; transforms and opacity drive the animation. There is no animation library or scroll hijacking.
+The page uses native scrolling, CSS sticky stages, and a foreground grain with three transparent PNG images prepared from `dist/assets/matta.png`. The closed husk (`matta-origin.png`) appears in the introduction and field scene, the opened husk (`matta-process.png`) in processing, and the peeled grain (`matta-promise.png`) in the packing scene. The original path, rotations, sizes, and pack-sealing timing are preserved. Scroll updates run through `requestAnimationFrame`; transforms and opacity drive the animation. There is no animation library or scroll hijacking.
 
 The grain travels between elements marked `data-stop`. Their actual positions are measured with `getBoundingClientRect()`, so the image aligns with the processing diagram and the pack opening across viewport sizes. Layout measurements are refreshed on resize, layout changes, and font loading.
 
@@ -47,6 +47,7 @@ To tune the journey:
 3. Change `data-rotation` to adjust its final angle.
 4. Change `.story-scene` heights to control chapter duration; mobile has shorter intervals.
 5. Adjust the sealing interval in `renderGrain()` in `dist/story.js` if the final pack transition needs different timing.
+6. Set `data-grain` on a target to `origin`, `process`, or `promise` to select its artwork. The three images inside `#journey-grain` crossfade with scroll position, so reverse scrolling and direct chapter links stay in sync. Matching static images support reduced motion and JavaScript-free viewing. Image preparation used built-in imagegen; the final prompts and asset paths are saved in [content/matta-images.json](content/matta-images.json).
 
 The last two targets sit inside `.pack-stage`. Keep the open and closed pack images the same dimensions and composition. Recalibrate `.pack-mouth` if approved replacement photography places the opening elsewhere.
 

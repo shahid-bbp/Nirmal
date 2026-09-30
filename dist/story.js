@@ -75,6 +75,7 @@
 
   const story = document.querySelector('.grain-story');
   const grain = document.getElementById('journey-grain');
+  const grainImages = [...document.querySelectorAll('#journey-grain [data-grain-image]')];
   const layer = document.querySelector('.grain-layer');
   const packClosed = document.getElementById('closed-pack');
   const packOpen = document.querySelector('.pack-open');
@@ -91,6 +92,7 @@
   let stops = [], sceneMetrics = [], chapterMetrics = [];
   let storyEnd = 1, viewportHeight = innerHeight, frame = 0;
   let needsMeasure = true, activeChapter = '';
+  let grainImagesReady = grainImages.length > 0 && grainImages.every(image => image.complete && image.naturalWidth > 0);
 
   // Layout reads happen on resize or font loading, never in the scroll listener.
   function measure() {
@@ -114,7 +116,7 @@
         y = rect.top - metric.stage.getBoundingClientRect().top + rect.height / 2;
       }
       return { id: anchor.dataset.stop, at, x: rect.left + rect.width / 2,
-        y, size: rect.width, rotation: Number(anchor.dataset.rotation || 0) };
+        y, size: rect.width, rotation: Number(anchor.dataset.rotation || 0), image: anchor.dataset.grain || 'origin' };
     });
     stops.sort((a, b) => a.at - b.at);
     chapterMetrics = chapters.map(chapter => ({ top: chapter.getBoundingClientRect().top + scroll,
@@ -123,7 +125,7 @@
   }
 
   function renderGrain(scroll) {
-    if (!grain || stops.length < 2 || reducedMotion.matches) return;
+    if (!grain || !grainImagesReady || stops.length < 2 || reducedMotion.matches) return;
     const last = stops.at(-1);
     let start = stops[0], end = stops[1];
     for (let i = 0; i < stops.length - 1; i++) {
@@ -132,7 +134,7 @@
     }
     const amount = clamp((scroll - start.at) / Math.max(1, end.at - start.at));
     const t = ease(amount);
-    // A single image follows a gentle arc between actual DOM targets.
+    // Keep the original travel path; only the artwork changes between chapters.
     const arc = start.id === 'entry' ? 0 : Math.sin(Math.PI * amount) * Math.min(70, innerWidth * .045);
     const x = mix(start.x, end.x, t) + arc;
     const y = mix(start.y, end.y, t);
@@ -140,6 +142,12 @@
     const rotation = mix(start.rotation, end.rotation, t);
     const imageHeight = 300 * 1273 / 1236;
     grain.style.transform = `translate3d(${x - 150}px,${y - imageHeight / 2}px,0) rotate(${rotation}deg) scale(${size / 300})`;
+    // Scroll-based opacity makes the image change reversible, including fast jumps.
+    const imageBlend = start.image === end.image ? 0 : ease(clamp((amount - .45) / .25));
+    grainImages.forEach(image => {
+      const stage = image.dataset.grainImage;
+      image.style.opacity = String(stage === start.image ? 1 - imageBlend : stage === end.image ? imageBlend : 0);
+    });
     const fallStart = mix(start.at, last.at, .9);
     const falling = end.id === 'mouth' ? clamp((scroll - fallStart) / Math.max(1, last.at - fallStart)) : 0;
     grain.style.opacity = String(scroll > last.at ? 0 : 1 - falling);
@@ -177,7 +185,8 @@
     if (!frame) frame = requestAnimationFrame(update);
   }
   function setMotion() {
-    document.body.classList.toggle('motion-ready', Boolean(story) && !reducedMotion.matches);
+    document.body.classList.toggle('motion-ready', Boolean(story) && grainImagesReady && !reducedMotion.matches);
+    if (layer && !grainImagesReady) layer.style.visibility = 'hidden';
     if (reducedMotion.matches) {
       revealItems.forEach(item => item.classList.add('is-visible'));
       if (layer) layer.style.visibility = 'hidden';
@@ -197,4 +206,11 @@
     scenes.forEach(scene => resize.observe(scene));
   }
   setMotion();
+  // Keep the static chapter images visible until every animation frame is decoded.
+  if (grainImages.length && !grainImagesReady) {
+    Promise.all(grainImages.map(image => image.decode().catch(() => {}))).then(() => {
+      grainImagesReady = grainImages.every(image => image.complete && image.naturalWidth > 0);
+      setMotion();
+    });
+  }
 })();
