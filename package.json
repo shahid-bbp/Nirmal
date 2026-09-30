@@ -1,0 +1,14 @@
+{
+  "name": "keerthi-nirmal-grain-story",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "start": "node scripts/serve.mjs",
+    "build:pages": "node scripts/build-editorial-pages.mjs && node scripts/build-company-pages.mjs && node scripts/build-products-page.mjs",
+    "build:company": "node scripts/build-company-pages.mjs",
+    "build:products": "node scripts/build-products-page.mjs",
+    "check": "node --check dist/story.js && node --check dist/our-story.js && node --check dist/contact.js && node --check dist/site-pages.js && node --check dist/process.js && node --check dist/blog.js && node --check dist/company.js && node --check dist/products.js && node --check scripts/site-navigation.mjs && node --check scripts/build-company-pages.mjs && node --check scripts/build-editorial-pages.mjs && node --check scripts/build-products-page.mjs && node --check scripts/serve.mjs"
+  }
+}

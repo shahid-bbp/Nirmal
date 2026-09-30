@@ -1,0 +1,5 @@
+.preview/
+.vercel/
+node_modules/
+
+.vercel

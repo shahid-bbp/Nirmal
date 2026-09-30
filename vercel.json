@@ -1,0 +1,6 @@
+{
+  "buildCommand": "npm run build:pages",
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "outputDirectory": "dist"
+}

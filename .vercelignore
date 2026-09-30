@@ -1,0 +1,4 @@
+.preview/
+.openai/
+.vercel/
+node_modules/

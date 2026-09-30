@@ -1,0 +1,9 @@
+{
+  "pages": ["https://keerthiagro.com/about", "https://keerthiagro.com/corporate-strategy", "https://keerthiagro.com/faq"],
+  "assets": [
+    {"file": "about-hero.webp", "source": "https://keerthiagro.com/images/about-hero.png"},
+    {"file": "corporate-strategy-hero.webp", "source": "https://keerthiagro.com/images/corporate-strategy-hero.png"},
+    {"file": "faq-hero.webp", "source": "https://keerthiagro.com/images/faq-hero.png"},
+    {"file": "journey-rice-hands.webp", "source": "https://keerthiagro.com/images/journey-rice-hands.png"}
+  ]
+}

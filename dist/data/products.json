@@ -1,0 +1,972 @@
+{
+  "categories": [
+    {
+      "id": "rice",
+      "title": "Rice",
+      "tint": "#edf0e4",
+      "description": "Discover our premium range of Kerala rice, including Kerala Matta Rice, Ponni Rice, Brown Rice, Kaima Rice and traditional regional varieties. Naturally processed and carefully selected, every grain delivers authentic taste, superior quality and consistent cooking performance for everyday meals and special occasions.",
+      "image": "assets/products/category-rice.webp",
+      "hoverImage": "assets/products/category-rice-hover.webp",
+      "products": [
+        {
+          "id": "raw-rice",
+          "title": "Raw Rice",
+          "category": "rice",
+          "description": "Premium quality raw rice, carefully processed to retain nutritional value and natural goodness. Perfect for everyday cooking with consistent texture and authentic flavour.",
+          "image": "assets/products/raw-rice.webp",
+          "hoverImage": "assets/products/raw-rice-hover.webp"
+        },
+        {
+          "id": "matta-raw-rice",
+          "title": "Matta Raw Rice",
+          "category": "rice",
+          "description": "Classic Matta Rice varieties known for their unique taste and cultural significance. A versatile choice for traditional and contemporary recipes.",
+          "image": "assets/products/matta-raw-rice.webp",
+          "hoverImage": "assets/products/matta-raw-rice-hover.webp"
+        },
+        {
+          "id": "yellow-kuruva-rice",
+          "title": "Yellow Kuruva Rice",
+          "category": "rice",
+          "description": "A distinctive variety with unique culinary properties and traditional appeal. Ideal for special occasions and authentic regional preparations.",
+          "image": "assets/products/yellow-kuruva-rice.webp",
+          "hoverImage": "assets/products/yellow-kuruva-rice-hover.webp"
+        },
+        {
+          "id": "matta-broken-rice",
+          "title": "Matta Broken Rice",
+          "category": "rice",
+          "description": "Broken Matta Rice offering excellent value and versatility. Perfect for everyday meals, porridges, and traditional rice preparations.",
+          "image": "assets/products/matta-broken-rice.webp",
+          "hoverImage": "assets/products/matta-broken-rice-hover.webp"
+        },
+        {
+          "id": "short-grain-matta-rice",
+          "title": "Short Grain Matta Rice",
+          "category": "rice",
+          "description": "Premium Short Grain Matta Rice with excellent cooking characteristics creates perfectly textured rice dishes with authentic flavour and aroma.",
+          "image": "assets/products/short-grain-matta-rice.webp",
+          "hoverImage": "assets/products/short-grain-matta-rice-hover.webp"
+        },
+        {
+          "id": "semi-bran-rice",
+          "title": "Semi Bran Rice",
+          "category": "rice",
+          "description": "Nutritious semi bran rice retaining beneficial bran layers. A wholesome choice for health-conscious cooking and balanced nutrition.",
+          "image": "assets/products/semi-bran-rice.webp",
+          "hoverImage": "assets/products/semi-bran-rice-hover.webp"
+        },
+        {
+          "id": "nice-matta-broken-rice",
+          "title": "Nice Matta Broken Rice",
+          "category": "rice",
+          "description": "Quality Broken Matta Rice with excellent texture and cooking properties. An economical option for traditional rice dishes and everyday meals.",
+          "image": "assets/products/nice-matta-broken-rice.webp",
+          "hoverImage": "assets/products/nice-matta-broken-rice-hover.webp"
+        },
+        {
+          "id": "long-grain-matta-rice",
+          "title": "Long Grain Matta Rice",
+          "category": "rice",
+          "description": "Premium Long Grain Matta Rice with superior quality and consistent texture. It is rich in nutrients and free from any trace of impurities.",
+          "image": "assets/products/long-grain-matta-rice.webp",
+          "hoverImage": "assets/products/long-grain-matta-rice-hover.webp"
+        },
+        {
+          "id": "ponni-rice",
+          "title": "Ponni Rice",
+          "category": "rice",
+          "description": "Versatile and popular Ponni Rice variety with excellent cooking properties. A trusted choice for both everyday cooking and special meals.",
+          "image": "assets/products/ponni-rice.webp",
+          "hoverImage": "assets/products/ponni-rice-hover.webp"
+        },
+        {
+          "id": "catering-long-grain-matta-rice",
+          "title": "Catering Long Grain Matta Rice",
+          "category": "rice",
+          "description": "Specially selected for bulk use and catering operations. Premium quality rice perfect for commercial kitchens and large-scale food preparation.",
+          "image": "assets/products/catering-long-grain-matta-rice.webp",
+          "hoverImage": "assets/products/catering-long-grain-matta-rice-hover.webp"
+        },
+        {
+          "id": "full-bran-rice",
+          "title": "Full Bran Rice",
+          "category": "rice",
+          "description": "Nutrient-rich full bran rice retaining the beneficial bran layer. An excellent choice for wholesome, nutritious meals with superior health benefits.",
+          "image": "assets/products/full-bran-rice.webp",
+          "hoverImage": "assets/products/full-bran-rice-hover.webp"
+        },
+        {
+          "id": "asd16-rice",
+          "title": "ASD16 Rice",
+          "category": "rice",
+          "description": "Premium ASD16 rice variety offering excellent taste and cooking properties. Perfect for everyday meals with consistent quality and authentic flavour.",
+          "image": "assets/products/asd16-rice.webp",
+          "hoverImage": "assets/products/asd16-rice-hover.webp"
+        },
+        {
+          "id": "surekha-rice",
+          "title": "Surekha Rice",
+          "category": "rice",
+          "description": "Quality Surekha rice delivering consistent taste and texture for all your cooking needs. A reliable choice for delicious, fluffy rice dishes.",
+          "image": "assets/products/surekha-rice.webp",
+          "hoverImage": "assets/products/surekha-rice-hover.webp"
+        },
+        {
+          "id": "idili-rice",
+          "title": "Idili Rice",
+          "category": "rice",
+          "description": "Specially selected for making soft and fluffy idlis. Traditional rice variety perfect for South Indian breakfast preparations and authentic cuisine.",
+          "image": "assets/products/idili-rice.webp",
+          "hoverImage": "assets/products/idili-rice-hover.webp"
+        },
+        {
+          "id": "single-boiled-rice",
+          "title": "Single Boiled Rice",
+          "category": "rice",
+          "description": "Minimally processed single boiled rice maintaining maximum nutrition and authentic taste. Ideal for health-conscious consumers seeking pure, wholesome rice.",
+          "image": "assets/products/single-boiled-rice.webp",
+          "hoverImage": "assets/products/single-boiled-rice-hover.webp"
+        },
+        {
+          "id": "wayanadan-thondi-rice",
+          "title": "Wayanadan Thondi Rice",
+          "category": "rice",
+          "description": "Aromatic Wayanadan Thondi rice with distinctive flavour and cultural heritage. A premium variety for traditional Kerala cuisine and special occasions.",
+          "image": "assets/products/wayanadan-thondi-rice.webp",
+          "hoverImage": "assets/products/wayanadan-thondi-rice-hover.webp"
+        },
+        {
+          "id": "white-kuruva-rice",
+          "title": "White Kuruva Rice",
+          "category": "rice",
+          "description": "Premium White Kuruva Rice with pure white grains and excellent cooking properties. A versatile variety suitable for all rice preparations.",
+          "image": "assets/products/white-kuruva-rice.webp",
+          "hoverImage": "assets/products/white-kuruva-rice-hover.webp"
+        },
+        {
+          "id": "al-reem-kaima-rice",
+          "title": "Al Reem Kaima Rice",
+          "category": "rice",
+          "description": "Premium Al Reem Kaima rice with superior quality and distinctive characteristics. Perfect for creating authentic Middle Eastern and Asian cuisine.",
+          "image": "assets/products/al-reem-kaima-rice.webp",
+          "hoverImage": "assets/products/al-reem-kaima-rice-hover.webp"
+        },
+        {
+          "id": "jaya-rice",
+          "title": "Jaya Rice",
+          "category": "rice",
+          "description": "Quality Jaya rice offering excellent taste and consistent cooking results. A reliable choice for everyday meals and special cooking occasions.",
+          "image": "assets/products/jaya-rice.webp",
+          "hoverImage": "assets/products/jaya-rice-hover.webp"
+        },
+        {
+          "id": "ir8-raw-rice",
+          "title": "IR8 Raw Rice",
+          "category": "rice",
+          "description": "Traditional IR8 raw rice with authentic taste and superior nutritional value. An economical and nutritious choice for everyday cooking.",
+          "image": "assets/products/ir8-raw-rice.webp",
+          "hoverImage": "assets/products/ir8-raw-rice-hover.webp"
+        },
+        {
+          "id": "kaima-jeerakasala-rice",
+          "title": "Kaima Jeerakasala Rice",
+          "category": "rice",
+          "description": "Premium Kaima rice variety with distinctive aroma and superior cooking qualities. Perfect for traditional dishes requiring authentic flavour and texture.",
+          "image": "assets/products/kaima-jeerakasala-rice.webp",
+          "hoverImage": "assets/products/kaima-jeerakasala-rice-hover.webp"
+        },
+        {
+          "id": "kranthi-rice",
+          "title": "Kranthi Rice",
+          "category": "rice",
+          "description": "Quality Kranthi rice with consistent cooking properties and authentic taste. An excellent choice for everyday meals with reliable quality.",
+          "image": "assets/products/kranthi-rice.webp",
+          "hoverImage": "assets/products/kranthi-rice-hover.webp"
+        }
+      ]
+    },
+    {
+      "id": "oils",
+      "title": "Cooking Oils",
+      "tint": "#f3eddb",
+      "description": "Choose from our range of pure coconut oil, sunflower oil and palmolein oil, produced to deliver freshness, purity and dependable cooking performance. Available in convenient pack sizes for homes, catering businesses and commercial kitchens.",
+      "image": "assets/products/category-oils.webp",
+      "hoverImage": "assets/products/category-oils-hover.webp",
+      "products": [
+        {
+          "id": "cocopure-bottle",
+          "title": "Cocopure Bottle",
+          "category": "oils",
+          "description": "Cocopure Coconut Oil delivers the authentic aroma and natural goodness of carefully selected coconuts. Available in 200 ml bottles.",
+          "image": "assets/products/cocopure-bottle.webp",
+          "hoverImage": "assets/products/cocopure-bottle-hover.webp"
+        },
+        {
+          "id": "cocopure-hdpe-bottle",
+          "title": "Cocopure HDPE Bottle",
+          "category": "oils",
+          "description": "Cocopure Coconut Oil in HDPE bottles combines convenience with trusted quality. Easy to store and handle, available in 1 L bottles.",
+          "image": "assets/products/cocopure-hdpe-bottle.webp",
+          "hoverImage": "assets/products/cocopure-hdpe-bottle-hover.webp"
+        },
+        {
+          "id": "cocopure-premium-jar",
+          "title": "Cocopure Premium Jar",
+          "category": "oils",
+          "description": "Packed in sturdy glass jars for convenient storage and handling, Cocopure Coconut Oil offers trusted purity and a natural coconut aroma. Available in 2 L jars.",
+          "image": "assets/products/cocopure-premium-jar.webp",
+          "hoverImage": "assets/products/cocopure-premium-jar-hover.webp"
+        },
+        {
+          "id": "cocopure-pouch",
+          "title": "Cocopure Pouch",
+          "category": "oils",
+          "description": "Lightweight and convenient, Cocopure Coconut Oil pouches are designed for easy everyday use. Available in 1 L, 500 ml and 200 ml packs.",
+          "image": "assets/products/cocopure-pouch.webp",
+          "hoverImage": "assets/products/cocopure-pouch-hover.webp"
+        },
+        {
+          "id": "cocopure-hdpe-can",
+          "title": "Cocopure HDPE Can",
+          "category": "oils",
+          "description": "Stored in durable food-grade HDPE containers, Cocopure Coconut Oil remains protected while preserving quality and freshness. Available in 5 L containers.",
+          "image": "assets/products/cocopure-hdpe-can.webp",
+          "hoverImage": "assets/products/cocopure-hdpe-can-hover.webp"
+        },
+        {
+          "id": "cocopure-can",
+          "title": "Cocopure Can",
+          "category": "oils",
+          "description": "Designed for larger households and commercial kitchens, Cocopure Coconut Oil in 5 L cans delivers dependable quality and consistent performance.",
+          "image": "assets/products/cocopure-can.webp",
+          "hoverImage": "assets/products/cocopure-can-hover.webp"
+        },
+        {
+          "id": "cocopure-bulk-tin",
+          "title": "Cocopure Bulk Tin",
+          "category": "oils",
+          "description": "Premium bulk coconut oil in a 15 kg tin, perfect for commercial use, food manufacturing, and large-scale cooking operations.",
+          "image": "assets/products/cocopure-bulk-tin.webp",
+          "hoverImage": "assets/products/cocopure-bulk-tin-hover.webp"
+        },
+        {
+          "id": "sun-pure-sunflower-oil",
+          "title": "Sun Pure Sunflower Oil",
+          "category": "oils",
+          "description": "Sun Pure Sunflower Oil is extracted from quality sunflower seeds to deliver light flavour and smooth cooking performance. Its versatility makes it suitable for frying, sautéing, and everyday meal preparation while allowing the natural taste of ingredients to shine through.",
+          "image": "assets/products/sun-pure-sunflower-oil.webp",
+          "hoverImage": "assets/products/sun-pure-sunflower-oil-hover.webp"
+        },
+        {
+          "id": "sun-pure-sunflower-oil-tin",
+          "title": "Sun Pure Sunflower Oil Tin",
+          "category": "oils",
+          "description": "Sun Pure Sunflower Oil in tins is ideal for bulk cooking requirements. Its light texture, neutral flavour, and dependable cooking performance make it a practical choice for commercial kitchens and large-scale food preparation.",
+          "image": "assets/products/sun-pure-sunflower-oil-tin.webp",
+          "hoverImage": "assets/products/sun-pure-sunflower-oil-tin-hover.webp"
+        },
+        {
+          "id": "palm-pure-palmolein-oil",
+          "title": "Palm Pure Palmolein Oil",
+          "category": "oils",
+          "description": "Palm Pure Palmolein Oil offers consistent cooking performance and excellent versatility. Its light colour and smooth texture make it suitable for a variety of cooking applications, from everyday meals to deep-fried dishes.",
+          "image": "assets/products/palm-pure-palmolein-oil.webp",
+          "hoverImage": "assets/products/palm-pure-palmolein-oil-hover.webp"
+        },
+        {
+          "id": "palm-pure-palmolein-oil-tin",
+          "title": "Palm Pure Palmolein Oil Tin",
+          "category": "oils",
+          "description": "Designed for commercial kitchens and bulk use, Palm Pure Palmolein Oil delivers reliable frying performance and consistent quality. It is a practical solution for large-scale cooking operations that require efficiency and value.",
+          "image": "assets/products/palm-pure-palmolein-oil-tin.webp",
+          "hoverImage": "assets/products/palm-pure-palmolein-oil-tin-hover.webp"
+        }
+      ]
+    },
+    {
+      "id": "breakfast",
+      "title": "Breakfast Products",
+      "tint": "#f4e9dc",
+      "description": "Enjoy traditional Kerala breakfasts with our range of puttu podi, dosa mix, idli mix, appam podi, roasted rava and wheat flour. Prepared from carefully selected ingredients for authentic taste and everyday convenience.",
+      "image": "assets/products/category-breakfast.webp",
+      "hoverImage": "assets/products/category-breakfast-hover.webp",
+      "products": [
+        {
+          "id": "steam-puttu-podi",
+          "title": "Steam Puttu Podi",
+          "category": "breakfast",
+          "description": "Made from carefully selected rice, helps you prepare soft, fluffy puttu with the perfect crumbly texture and authentic taste of Kerala breakfasts.",
+          "image": "assets/products/steam-puttu-podi.webp",
+          "hoverImage": "assets/products/steam-puttu-podi-hover.webp"
+        },
+        {
+          "id": "instant-dosa-mix",
+          "title": "Instant Dosa Mix",
+          "category": "breakfast",
+          "description": "Enjoy golden, crispy dosas without lengthy preparation. Made from a balanced blend of rice and black gram, it delivers authentic taste and consistent results.",
+          "image": "assets/products/instant-dosa-mix.webp",
+          "hoverImage": "assets/products/instant-dosa-mix-hover.webp"
+        },
+        {
+          "id": "roasted-rava",
+          "title": "Roasted Rava",
+          "category": "breakfast",
+          "description": "Pre-roasted for added convenience, roasted rava saves preparation time while delivering excellent taste and texture. Ideal for upma, snacks, and desserts.",
+          "image": "assets/products/roasted-rava.webp",
+          "hoverImage": "assets/products/roasted-rava-hover.webp"
+        },
+        {
+          "id": "chemba-puttu-podi",
+          "title": "Chemba Puttu Podi",
+          "category": "breakfast",
+          "description": "Prepared from quality red rice, chemba puttu podi brings the rich taste and wholesome goodness of Kerala's traditional breakfast to your kitchen.",
+          "image": "assets/products/chemba-puttu-podi.webp",
+          "hoverImage": "assets/products/chemba-puttu-podi-hover.webp"
+        },
+        {
+          "id": "atta-wheat-flour",
+          "title": "Atta (Wheat Flour)",
+          "category": "breakfast",
+          "description": "Finely milled from quality whole wheat, perfect for soft rotis, fluffy parathas, and a variety of traditional and modern recipes.",
+          "image": "assets/products/atta-wheat-flour.webp",
+          "hoverImage": "assets/products/atta-wheat-flour-hover.webp"
+        },
+        {
+          "id": "roasted-ragi-powder",
+          "title": "Roasted Ragi Powder",
+          "category": "breakfast",
+          "description": "Made from carefully roasted finger millet, offering a rich source of natural nutrition along with distinctive flavour. Ideal for dosas, rotis, and porridges.",
+          "image": "assets/products/roasted-ragi-powder.webp",
+          "hoverImage": "assets/products/roasted-ragi-powder-hover.webp"
+        },
+        {
+          "id": "wheat-puttu-podi",
+          "title": "Wheat Puttu Podi",
+          "category": "breakfast",
+          "description": "Made from roasted wheat flour, offering a delicious variation of the classic Kerala breakfast with rich texture and wholesome character. Ideal for traditional puttu podi preparations.",
+          "image": "assets/products/wheat-puttu-podi.webp",
+          "hoverImage": "assets/products/wheat-puttu-podi-hover.webp"
+        },
+        {
+          "id": "instant-idli-mix",
+          "title": "Instant Idli Mix",
+          "category": "breakfast",
+          "description": "Prepare light and fluffy idlis with ease. Specially blended for consistent texture and authentic flavour, it helps you create soft idlis that pair perfectly with chutneys.",
+          "image": "assets/products/instant-idli-mix.webp",
+          "hoverImage": "assets/products/instant-idli-mix-hover.webp"
+        },
+        {
+          "id": "steam-ragi-puttu-podi",
+          "title": "Steam Ragi Puttu Podi",
+          "category": "breakfast",
+          "description": "Enjoy the wholesome goodness of ragi in a traditional breakfast favourite. Steam ragi puttu podi delivers the natural benefits of finger millet with satisfying texture and authentic taste.",
+          "image": "assets/products/steam-ragi-puttu-podi.webp",
+          "hoverImage": "assets/products/steam-ragi-puttu-podi-hover.webp"
+        }
+      ]
+    },
+    {
+      "id": "essentials",
+      "title": "Kitchen Essentials",
+      "tint": "#e6eeea",
+      "description": "Complete your kitchen with everyday essentials, including jaggery, sugar, salt, ginger paste, garlic paste, tamarind and vinegar. Carefully processed for freshness, quality and consistent flavour.",
+      "image": "assets/products/category-essentials.webp",
+      "hoverImage": "assets/products/category-essentials-hover.webp",
+      "products": [
+        {
+          "id": "garlic-paste",
+          "title": "Garlic Paste",
+          "category": "essentials",
+          "description": "Garlic paste delivers the bold taste and aroma of fresh garlic in a smooth, ready-to-use form. It saves preparation time while enhancing the flavour of curries, marinades, gravies, and a variety of savoury recipes.",
+          "image": "assets/products/garlic-paste.webp",
+          "hoverImage": "assets/products/garlic-paste-hover.webp"
+        },
+        {
+          "id": "ginger-garlic-paste",
+          "title": "Ginger Garlic Paste",
+          "category": "essentials",
+          "description": "A balanced blend of ginger and garlic, this paste brings authentic flavour and aroma to a wide range of dishes. Its ready-to-use format saves time while helping create rich and flavourful meals.",
+          "image": "assets/products/ginger-garlic-paste.webp",
+          "hoverImage": "assets/products/ginger-garlic-paste-hover.webp"
+        },
+        {
+          "id": "ginger-paste",
+          "title": "Ginger Paste",
+          "category": "essentials",
+          "description": "Prepared for convenience and consistency, ginger paste offers the fresh aroma and flavour of ginger in an easy-to-use format. It is ideal for adding depth and character to everyday cooking.",
+          "image": "assets/products/ginger-paste.webp",
+          "hoverImage": "assets/products/ginger-paste-hover.webp"
+        },
+        {
+          "id": "sugar",
+          "title": "Sugar",
+          "category": "essentials",
+          "description": "Made from carefully processed sugarcane, this sugar features fine crystals, clean sweetness, and excellent solubility. It is suitable for beverages, desserts, baking, and a wide range of everyday culinary applications.",
+          "image": "assets/products/sugar.webp",
+          "hoverImage": "assets/products/sugar-hover.webp"
+        },
+        {
+          "id": "soya-chunks",
+          "title": "Soya Chunks",
+          "category": "essentials",
+          "description": "Soya chunks provide a convenient source of plant-based protein with a firm texture that absorbs flavours well. They are suitable for curries, stir-fries, and a variety of wholesome everyday recipes.",
+          "image": "assets/products/soya-chunks.webp",
+          "hoverImage": "assets/products/soya-chunks-hover.webp"
+        },
+        {
+          "id": "jaggery-powder",
+          "title": "Jaggery Powder",
+          "category": "essentials",
+          "description": "Jaggery powder offers the wholesome sweetness of traditional jaggery in a convenient and easy-to-use form. It blends effortlessly into beverages, desserts, and everyday recipes while adding a naturally rich flavour.",
+          "image": "assets/products/jaggery-powder.webp",
+          "hoverImage": "assets/products/jaggery-powder-hover.webp"
+        },
+        {
+          "id": "jaggery",
+          "title": "Jaggery",
+          "category": "essentials",
+          "description": "Jaggery balls are prepared from concentrated sugarcane juice and are known for their rich sweetness and traditional flavour. Widely used in authentic recipes and homemade preparations, they add depth and character to a variety of dishes.",
+          "image": "assets/products/jaggery.webp",
+          "hoverImage": "assets/products/jaggery-hover.webp"
+        },
+        {
+          "id": "iodised-free-flow-salt",
+          "title": "Iodised Free Flow Salt",
+          "category": "essentials",
+          "description": "Powdered salt features fine iodised crystals that dissolve easily and distribute evenly throughout recipes. Its clean taste and dependable quality make it an essential ingredient for everyday cooking and seasoning.",
+          "image": "assets/products/iodised-free-flow-salt.webp",
+          "hoverImage": "assets/products/iodised-free-flow-salt-hover.webp"
+        },
+        {
+          "id": "soya-balls",
+          "title": "Soya Balls",
+          "category": "essentials",
+          "description": "Soya balls offer the same nutritional benefits and versatility as other variants while providing a hearty texture. They absorb spices and seasonings effectively, making them suitable for rich and flavourful dishes.",
+          "image": "assets/products/soya-balls.webp",
+          "hoverImage": "assets/products/soya-balls-hover.webp"
+        },
+        {
+          "id": "distilled-white-vinegar",
+          "title": "Distilled White Vinegar",
+          "category": "essentials",
+          "description": "Vinegar provides balanced acidity and a clean flavour profile that complements a variety of culinary applications. It is ideal for pickling, preserving, marinating, and enhancing the taste of numerous recipes.",
+          "image": "assets/products/distilled-white-vinegar.webp",
+          "hoverImage": "assets/products/distilled-white-vinegar-hover.webp"
+        },
+        {
+          "id": "asafoetida-hing",
+          "title": "Asafoetida (Hing)",
+          "category": "essentials",
+          "description": "Known for its strong and distinctive aroma, Asafoetida adds depth and flavour to a variety of dishes. A small quantity is enough to enhance dals, curries, pickles, and traditional preparations.",
+          "image": "assets/products/asafoetida-hing.webp",
+          "hoverImage": "assets/products/asafoetida-hing-hover.webp"
+        },
+        {
+          "id": "iodised-crystal-salt",
+          "title": "Iodised Crystal Salt",
+          "category": "essentials",
+          "description": "Crystal salt contains clean, coarse crystals enriched with iodine to support everyday dietary needs. Its natural texture and balanced flavour make it suitable for a variety of cooking applications.",
+          "image": "assets/products/iodised-crystal-salt.webp",
+          "hoverImage": "assets/products/iodised-crystal-salt-hover.webp"
+        },
+        {
+          "id": "tamarind",
+          "title": "Tamarind",
+          "category": "essentials",
+          "description": "Tamarind delivers a distinctive tangy flavour that enhances a wide range of traditional recipes. Its natural sourness makes it an essential ingredient in curries, chutneys, gravies, and regional dishes.",
+          "image": "assets/products/tamarind.webp",
+          "hoverImage": "assets/products/tamarind-hover.webp"
+        }
+      ]
+    },
+    {
+      "id": "pulses",
+      "title": "Pulses",
+      "tint": "#ede9f1",
+      "description": "Our nutritious range of pulses includes green gram, red peas, black chana, white chana, horse gram, lentils and dals. Sourced with care to deliver wholesome nutrition and authentic taste.",
+      "image": "assets/products/category-pulses.webp",
+      "hoverImage": "assets/products/category-pulses-hover.webp",
+      "products": [
+        {
+          "id": "green-peas",
+          "title": "Green Peas",
+          "category": "pulses",
+          "description": "Green peas add natural sweetness, vibrant colour, and tender texture to a variety of dishes. Whether used in curries, rice preparations, soups, or snacks, they enhance both flavour and nutritional value. Their versatility and freshness make them a staple ingredient in everyday cooking.",
+          "image": "assets/products/green-peas.webp",
+          "hoverImage": "assets/products/green-peas-hover.webp"
+        },
+        {
+          "id": "masoor-dal",
+          "title": "Masoor Dal",
+          "category": "pulses",
+          "description": "Masoor dal is known for its quick cooking time, smooth texture, and mild flavour. It is an excellent choice for preparing soups, curries, and wholesome home-cooked meals with ease. Rich in nutrients and easy to incorporate into everyday recipes, it offers both convenience and nourishment.",
+          "image": "assets/products/masoor-dal.webp",
+          "hoverImage": "assets/products/masoor-dal-hover.webp"
+        },
+        {
+          "id": "green-gram-cherupayar",
+          "title": "Green Gram (Cherupayar)",
+          "category": "pulses",
+          "description": "Green gram is widely appreciated for its versatility, gentle flavour, and nutritional goodness. Naturally rich in protein and fibre, it is easy to digest and suitable for a variety of preparations, from curries and soups to salads and breakfast dishes. Its light texture and wholesome character make it a staple for healthy everyday cooking.",
+          "image": "assets/products/green-gram-cherupayar.webp",
+          "hoverImage": "assets/products/green-gram-cherupayar-hover.webp"
+        },
+        {
+          "id": "red-peas-vanpayar",
+          "title": "Red Peas (Vanpayar)",
+          "category": "pulses",
+          "description": "Red peas are a cherished ingredient in traditional kitchens, valued for their firm texture, earthy flavour, and wholesome nutritional profile. They absorb flavours beautifully during cooking, making them ideal for curries, stews, and classic regional dishes. Rich in protein and fibre, they bring both nourishment and a satisfying bite to everyday meals.",
+          "image": "assets/products/red-peas-vanpayar.webp",
+          "hoverImage": "assets/products/red-peas-vanpayar-hover.webp"
+        },
+        {
+          "id": "white-chana",
+          "title": "White Chana",
+          "category": "pulses",
+          "description": "White chana is valued for its firm texture, rich taste, and ability to create hearty, satisfying meals. Whether prepared as flavourful curries, refreshing salads, or wholesome snacks, it offers an excellent balance of nutrition and flavour. Its versatility makes it a favourite ingredient in kitchens around the world.",
+          "image": "assets/products/white-chana.webp",
+          "hoverImage": "assets/products/white-chana-hover.webp"
+        },
+        {
+          "id": "black-chana",
+          "title": "Black Chana",
+          "category": "pulses",
+          "description": "Black chana is prized for its earthy flavour, firm texture, and impressive nutritional profile. Rich in fibre and protein, it is widely used in traditional dishes that are both nourishing and satisfying. Its robust character and wholesome goodness make it a valuable addition to everyday cooking.",
+          "image": "assets/products/black-chana.webp",
+          "hoverImage": "assets/products/black-chana-hover.webp"
+        },
+        {
+          "id": "moong-dal",
+          "title": "Moong Dal",
+          "category": "pulses",
+          "description": "Moong dal is appreciated for its delicate flavour, light texture, and nutritional benefits. Naturally easy to digest, it is widely used in soups, curries, porridges, and healthy everyday meals. Its versatility and wholesome nature make it suitable for people of all ages.",
+          "image": "assets/products/moong-dal.webp",
+          "hoverImage": "assets/products/moong-dal-hover.webp"
+        },
+        {
+          "id": "horse-gram",
+          "title": "Horse Gram",
+          "category": "pulses",
+          "description": "Horse gram is a traditional legume celebrated for its strong nutritional value and distinctive earthy flavour. Rich in protein and dietary fibre, it has been a trusted ingredient in regional cuisines for generations. Its hearty texture and wholesome character make it ideal for nourishing home-cooked meals.",
+          "image": "assets/products/horse-gram.webp",
+          "hoverImage": "assets/products/horse-gram-hover.webp"
+        },
+        {
+          "id": "urad-gota-urad-whole",
+          "title": "Urad Gota (Urad Whole)",
+          "category": "pulses",
+          "description": "Urad whole is known for its dense texture, rich nutritional value, and versatility in traditional cooking. Commonly used in curries, dals, and fermented dishes, it contributes both flavour and substance to everyday meals. Its high protein content and distinctive taste make it an important ingredient in many regional recipes.",
+          "image": "assets/products/urad-gota-urad-whole.webp",
+          "hoverImage": "assets/products/urad-gota-urad-whole-hover.webp"
+        },
+        {
+          "id": "ragi-whole",
+          "title": "Ragi Whole",
+          "category": "pulses",
+          "description": "Ragi seeds have long been valued for their rich nutritional content and traditional significance. Naturally abundant in fibre, calcium, and essential nutrients, they form the foundation of many wholesome recipes. From porridges to baked dishes, they bring nourishment and goodness to everyday meals.",
+          "image": "assets/products/ragi-whole.webp",
+          "hoverImage": "assets/products/ragi-whole-hover.webp"
+        },
+        {
+          "id": "urad-dal-split",
+          "title": "Urad Dal (Split)",
+          "category": "pulses",
+          "description": "Urad dal is known for its smooth texture, rich flavour, and versatility in traditional cooking. Widely used in dals, dosas, vadas, and a variety of regional dishes, it contributes both taste and nutritional value. Its creamy consistency makes it an essential ingredient in many beloved recipes.",
+          "image": "assets/products/urad-dal-split.webp",
+          "hoverImage": "assets/products/urad-dal-split-hover.webp"
+        },
+        {
+          "id": "toor-dal",
+          "title": "Toor Dal",
+          "category": "pulses",
+          "description": "A cornerstone of Indian cuisine, toor dal is loved for its comforting taste, smooth texture, and versatility. It cooks into rich, flavourful dals that pair perfectly with rice and traditional accompaniments. Packed with protein and essential nutrients, it brings warmth, nourishment, and familiar flavours to every meal.",
+          "image": "assets/products/toor-dal.webp",
+          "hoverImage": "assets/products/toor-dal-hover.webp"
+        }
+      ]
+    },
+    {
+      "id": "pickles",
+      "title": "Pickles",
+      "tint": "#f3e8e0",
+      "description": "Made using traditional recipes and carefully selected ingredients, our pickles bring the authentic flavours of Kerala to every meal. Discover a variety of mango, lemon, fish, prawn and speciality pickles.",
+      "image": "assets/products/category-pickles.webp",
+      "hoverImage": "assets/products/category-pickles-hover.webp",
+      "products": [
+        {
+          "id": "prawns-pickle",
+          "title": "Prawns Pickle",
+          "category": "pickles",
+          "description": "A delightful blend of flavours and spices, this tangy and aromatic pickle adds a unique dimension to your meals.",
+          "image": "assets/products/prawns-pickle.webp",
+          "hoverImage": "assets/products/prawns-pickle-hover.webp"
+        },
+        {
+          "id": "tender-mango-pickle",
+          "title": "Tender Mango Pickle",
+          "category": "pickles",
+          "description": "Made from tender mangoes, this pickle offers a perfect balance of tangy and spicy flavours with authentic spices.",
+          "image": "assets/products/tender-mango-pickle.webp",
+          "hoverImage": "assets/products/tender-mango-pickle-hover.webp"
+        },
+        {
+          "id": "hot-sweet-pickle",
+          "title": "Hot & Sweet Pickle",
+          "category": "pickles",
+          "description": "A harmonious combination of heat and sweetness, this pickle brings excitement to every bite with traditional Kerala spices.",
+          "image": "assets/products/hot-sweet-pickle.webp",
+          "hoverImage": "assets/products/hot-sweet-pickle-hover.webp"
+        },
+        {
+          "id": "garlic-pickle",
+          "title": "Garlic Pickle",
+          "category": "pickles",
+          "description": "Rich and pungent garlic flavours infused with traditional spices, perfect for adding depth to your culinary creations.",
+          "image": "assets/products/garlic-pickle.webp",
+          "hoverImage": "assets/products/garlic-pickle-hover.webp"
+        },
+        {
+          "id": "sliced-mango-pickle",
+          "title": "Sliced Mango Pickle",
+          "category": "pickles",
+          "description": "Thin slices of mango preserved in a savoury and spicy brine, offering a refreshing condiment for everyday meals.",
+          "image": "assets/products/sliced-mango-pickle.webp",
+          "hoverImage": "assets/products/sliced-mango-pickle-hover.webp"
+        },
+        {
+          "id": "mango-ginger-pickle",
+          "title": "Mango Ginger Pickle",
+          "category": "pickles",
+          "description": "A warming blend of mango and ginger with traditional spices, this pickle stimulates the palate with its complex flavours.",
+          "image": "assets/products/mango-ginger-pickle.webp",
+          "hoverImage": "assets/products/mango-ginger-pickle-hover.webp"
+        },
+        {
+          "id": "puli-inchi-pickle",
+          "title": "Puli Inchi Pickle",
+          "category": "pickles",
+          "description": "A traditional Kerala speciality, this sour and spicy pickle brings authentic flavours and nostalgia to your table.",
+          "image": "assets/products/puli-inchi-pickle.webp",
+          "hoverImage": "assets/products/puli-inchi-pickle-hover.webp"
+        },
+        {
+          "id": "mixed-vegetable-pickle",
+          "title": "Mixed Vegetable Pickle",
+          "category": "pickles",
+          "description": "A colourful medley of vegetables in a tangy spice blend, offering variety and nutrition in every spoonful.",
+          "image": "assets/products/mixed-vegetable-pickle.webp",
+          "hoverImage": "assets/products/mixed-vegetable-pickle-hover.webp"
+        },
+        {
+          "id": "lemon-pickle",
+          "title": "Lemon Pickle",
+          "category": "pickles",
+          "description": "Tangy and refreshing, this classic pickle made from fresh lemons brings zesty flavours to complement any meal.",
+          "image": "assets/products/lemon-pickle.webp",
+          "hoverImage": "assets/products/lemon-pickle-hover.webp"
+        },
+        {
+          "id": "fish-pickle",
+          "title": "Fish Pickle",
+          "category": "pickles",
+          "description": "A savoury and protein-rich pickle with authentic Kerala flavours, perfect for those seeking unique taste experiences.",
+          "image": "assets/products/fish-pickle.webp",
+          "hoverImage": "assets/products/fish-pickle-hover.webp"
+        },
+        {
+          "id": "idi-irachi-pickle",
+          "title": "Idi Irachi Pickle",
+          "category": "pickles",
+          "description": "A traditional delicacy with tender meat pieces, this pickle combines authentic spices for a memorable dining experience.",
+          "image": "assets/products/idi-irachi-pickle.webp",
+          "hoverImage": "assets/products/idi-irachi-pickle-hover.webp"
+        }
+      ]
+    },
+    {
+      "id": "snacks",
+      "title": "Snacks",
+      "tint": "#f4eddc",
+      "description": "Enjoy Kerala's favourite traditional snacks, from banana chips and achappam to murukku, mixtures and kuzhalappam. Prepared with quality ingredients to deliver authentic flavour and satisfying crunch.",
+      "image": "assets/products/category-snacks.webp",
+      "hoverImage": "assets/products/category-snacks-hover.webp",
+      "products": [
+        {
+          "id": "tapioca-chips-chilli",
+          "title": "Tapioca Chips Chilli",
+          "category": "snacks",
+          "description": "Thinly sliced tapioca chips seasoned with flavourful spices create a snack that's both crunchy and exciting. With its perfect balance of crispness and spice, it's a favourite for those who love bold flavours.",
+          "image": "assets/products/tapioca-chips-chilli.webp",
+          "hoverImage": "assets/products/tapioca-chips-chilli-hover.webp"
+        },
+        {
+          "id": "spring-murukku",
+          "title": "Spring Murukku",
+          "category": "snacks",
+          "description": "Spring Murukku is loved for its airy crunch and savoury flavour. Its light texture and satisfying crispness make it a snack that's enjoyable at any time of the day.",
+          "image": "assets/products/spring-murukku.webp",
+          "hoverImage": "assets/products/spring-murukku-hover.webp"
+        },
+        {
+          "id": "peanut-roast",
+          "title": "Peanut Roast",
+          "category": "snacks",
+          "description": "Carefully roasted to bring out their natural flavour, these peanuts offer a rich taste and satisfying crunch. Perfect as a wholesome snack, they are enjoyable anytime, anywhere.",
+          "image": "assets/products/peanut-roast.webp",
+          "hoverImage": "assets/products/peanut-roast-hover.webp"
+        },
+        {
+          "id": "sweet-kuzhalappam",
+          "title": "Sweet Kuzhalappam",
+          "category": "snacks",
+          "description": "Sweet Kuzhalappam combines a delicate crunch with just the right touch of sweetness. Loved for its traditional flavour and satisfying texture, it is a snack that brings joy to every bite.",
+          "image": "assets/products/sweet-kuzhalappam.webp",
+          "hoverImage": "assets/products/sweet-kuzhalappam-hover.webp"
+        },
+        {
+          "id": "kerala-mixture",
+          "title": "Kerala Mixture",
+          "category": "snacks",
+          "description": "A true Kerala favourite, this mixture combines a variety of crispy ingredients and traditional flavours to create a snack full of character. From the first bite to the last, it delivers a deliciously crunchy experience perfect for any time of the day.",
+          "image": "assets/products/kerala-mixture.webp",
+          "hoverImage": "assets/products/kerala-mixture-hover.webp"
+        },
+        {
+          "id": "pakkavada",
+          "title": "Pakkavada",
+          "category": "snacks",
+          "description": "Known for its bold crunch and satisfying spice, Pakkavada is a tea-time classic enjoyed by snack lovers everywhere. Its crispy texture and flavourful taste make it a delicious companion for every break.",
+          "image": "assets/products/pakkavada.webp",
+          "hoverImage": "assets/products/pakkavada-hover.webp"
+        },
+        {
+          "id": "kuzhalappam",
+          "title": "Kuzhalappam",
+          "category": "snacks",
+          "description": "Known for its distinctive shape and satisfying crunch, Kuzhalappam is a traditional snack enjoyed across generations. Its authentic flavour and crisp texture make it a timeless favourite.",
+          "image": "assets/products/kuzhalappam.webp",
+          "hoverImage": "assets/products/kuzhalappam-hover.webp"
+        },
+        {
+          "id": "sharkara-varatti",
+          "title": "Sharkara Varatti",
+          "category": "snacks",
+          "description": "A festive favourite with deep roots in Kerala tradition, Sharkara Varatti combines crisp banana pieces with a rich coating of sweetness. Every bite offers a delightful blend of crunch, flavour, and nostalgia.",
+          "image": "assets/products/sharkara-varatti.webp",
+          "hoverImage": "assets/products/sharkara-varatti-hover.webp"
+        },
+        {
+          "id": "nice-mixture",
+          "title": "Nice Mixture",
+          "category": "snacks",
+          "description": "A delightful blend of crunchy ingredients and balanced flavours, a nice mixture offers a satisfying snacking experience for every occasion. Its light yet flavourful taste makes it a crowd favourite.",
+          "image": "assets/products/nice-mixture.webp",
+          "hoverImage": "assets/products/nice-mixture-hover.webp"
+        },
+        {
+          "id": "palak-murukku",
+          "title": "Palak Murukku",
+          "category": "snacks",
+          "description": "Combining a delightful crunch with savoury flavours, Palak Murukku offers a refreshing twist on a traditional favourite. Its crisp texture and satisfying taste make every bite enjoyable.",
+          "image": "assets/products/palak-murukku.webp",
+          "hoverImage": "assets/products/palak-murukku-hover.webp"
+        },
+        {
+          "id": "chilli-mixture",
+          "title": "Chilli Mixture",
+          "category": "snacks",
+          "description": "Packed with crunchy ingredients and seasoned with vibrant spices, a chilli mixture delivers the perfect balance of texture and heat. Every handful is full of flavour, making it the ideal snack for those who enjoy a spicy kick.",
+          "image": "assets/products/chilli-mixture.webp",
+          "hoverImage": "assets/products/chilli-mixture-hover.webp"
+        },
+        {
+          "id": "achappam",
+          "title": "Achappam",
+          "category": "snacks",
+          "description": "A timeless favourite loved across generations, Achappam brings together a delicate crunch and authentic traditional flavour in every bite. Light, crispy, and wonderfully satisfying, it is a snack that adds a touch of nostalgia to every occasion.",
+          "image": "assets/products/achappam.webp",
+          "hoverImage": "assets/products/achappam-hover.webp"
+        },
+        {
+          "id": "heart-biscuits",
+          "title": "Heart Biscuits",
+          "category": "snacks",
+          "description": "With their crisp texture and delicate sweetness, heart biscuits are perfect for enjoying with a cup of tea or as a light snack throughout the day. Every bite delivers a comforting and enjoyable taste.",
+          "image": "assets/products/heart-biscuits.webp",
+          "hoverImage": "assets/products/heart-biscuits-hover.webp"
+        },
+        {
+          "id": "ellu-unda-white",
+          "title": "Ellu Unda White",
+          "category": "snacks",
+          "description": "Prepared with carefully selected ingredients, Ellu Unda White offers a delightful combination of sweetness and texture. Its familiar flavour and traditional appeal make it a favourite for all ages.",
+          "image": "assets/products/ellu-unda-white.webp",
+          "hoverImage": "assets/products/ellu-unda-white-hover.webp"
+        },
+        {
+          "id": "ellu-unda-black",
+          "title": "Ellu Unda Black",
+          "category": "snacks",
+          "description": "Made with black sesame seeds and traditional flavours, Ellu Unda Black offers a rich, nutty taste with a satisfying texture. A beloved classic, it brings together wholesome goodness and authentic flavour in every bite.",
+          "image": "assets/products/ellu-unda-black.webp",
+          "hoverImage": "assets/products/ellu-unda-black-hover.webp"
+        },
+        {
+          "id": "tapioca-chips-white",
+          "title": "Tapioca Chips White",
+          "category": "snacks",
+          "description": "Thinly sliced tapioca chips that are light, delicate, and perfectly crunchy. With its mild flavour and satisfying texture, it's a snack that brings joy to every bite.",
+          "image": "assets/products/tapioca-chips-white.webp",
+          "hoverImage": "assets/products/tapioca-chips-white-hover.webp"
+        },
+        {
+          "id": "hot-mixture",
+          "title": "Hot Mixture",
+          "category": "snacks",
+          "description": "Loaded with crunchy ingredients and bold seasoning, a hot mixture delivers a satisfying burst of flavour in every handful. Its fiery taste and crispy texture make it a favourite amongst spice lovers.",
+          "image": "assets/products/hot-mixture.webp",
+          "hoverImage": "assets/products/hot-mixture-hover.webp"
+        },
+        {
+          "id": "banana-chips",
+          "title": "Banana Chips",
+          "category": "snacks",
+          "description": "Made from carefully selected bananas and fried to a perfect golden crisp, banana chips deliver a satisfying crunch with every bite. Their authentic taste and irresistible texture make them a go-to snack for tea-time, travel, and everyday cravings.",
+          "image": "assets/products/banana-chips.webp",
+          "hoverImage": "assets/products/banana-chips-hover.webp"
+        },
+        {
+          "id": "achappam-sweet",
+          "title": "Achappam Sweet",
+          "category": "snacks",
+          "description": "Achappam brings together a delicate crunch and authentic traditional flavour in every bite. Light, crispy, and wonderfully satisfying, it is a snack that adds a touch of nostalgia to every occasion.",
+          "image": "assets/products/achappam-sweet.webp",
+          "hoverImage": "assets/products/achappam-sweet-hover.webp"
+        },
+        {
+          "id": "cd-murukku",
+          "title": "CD Murukku",
+          "category": "snacks",
+          "description": "With its distinctive shape, crispy texture, and savoury flavour, CD Murukku is a snack that's hard to stop at just one bite. Perfect for sharing with family and friends, it brings together tradition and taste in a delightfully crunchy way.",
+          "image": "assets/products/cd-murukku.webp",
+          "hoverImage": "assets/products/cd-murukku-hover.webp"
+        }
+      ]
+    },
+    {
+      "id": "spices",
+      "title": "Spices",
+      "tint": "#f2e5de",
+      "description": "Bring authentic flavour to every recipe with our premium spices, including whole spices and spice powders. Carefully sourced and packed to preserve their natural aroma, freshness and quality.",
+      "image": "assets/products/category-spices.webp",
+      "hoverImage": "assets/products/category-spices-hover.webp",
+      "products": [
+        {
+          "id": "whole-dry-red-chillies",
+          "title": "Whole Dry Red Chillies",
+          "category": "spices",
+          "description": "Premium quality sun-dried red chillies with authentic flavour and perfect heat. Ideal for traditional cooking and adding vibrant colour to your dishes.",
+          "image": "assets/products/whole-dry-red-chillies.webp",
+          "hoverImage": "assets/products/whole-dry-red-chillies-hover.webp"
+        },
+        {
+          "id": "whole-cumin",
+          "title": "Whole Cumin",
+          "category": "spices",
+          "description": "Aromatic whole cumin seeds with a distinctive warm flavour. Perfect for tempering and adding to curries, rice dishes, and traditional recipes.",
+          "image": "assets/products/whole-cumin.webp",
+          "hoverImage": "assets/products/whole-cumin-hover.webp"
+        },
+        {
+          "id": "whole-coriander",
+          "title": "Whole Coriander",
+          "category": "spices",
+          "description": "Fresh and flavourful whole coriander seeds with a citrusy aroma. Essential for Indian cooking, pickling, and spice blends.",
+          "image": "assets/products/whole-coriander.webp",
+          "hoverImage": "assets/products/whole-coriander-hover.webp"
+        },
+        {
+          "id": "bay-leaves",
+          "title": "Bay Leaves",
+          "category": "spices",
+          "description": "Aromatic bay leaves that add subtle flavour to soups, stews, and curries. A staple ingredient for enhancing culinary creations.",
+          "image": "assets/products/bay-leaves.webp",
+          "hoverImage": "assets/products/bay-leaves-hover.webp"
+        },
+        {
+          "id": "whole-fennel",
+          "title": "Whole Fennel",
+          "category": "spices",
+          "description": "Sweet and liquorice-flavoured fennel seeds perfect for tempering and traditional Indian cuisine. Aids digestion and freshens breath.",
+          "image": "assets/products/whole-fennel.webp",
+          "hoverImage": "assets/products/whole-fennel-hover.webp"
+        },
+        {
+          "id": "whole-green-cardamom",
+          "title": "Whole Green Cardamom",
+          "category": "spices",
+          "description": "Aromatic green cardamom pods with intense flavour. Perfect for teas, desserts, biryanis, and traditional spice blends.",
+          "image": "assets/products/whole-green-cardamom.webp",
+          "hoverImage": "assets/products/whole-green-cardamom-hover.webp"
+        },
+        {
+          "id": "cumin-powder",
+          "title": "Cumin Powder",
+          "category": "spices",
+          "description": "Finely ground cumin powder with warm, earthy flavour. Convenient and ready-to-use for everyday cooking and spice preparations.",
+          "image": "assets/products/cumin-powder.webp",
+          "hoverImage": "assets/products/cumin-powder-hover.webp"
+        },
+        {
+          "id": "coriander-powder",
+          "title": "Coriander Powder",
+          "category": "spices",
+          "description": "Aromatic ground coriander powder with bright citrus notes. Essential for curries, gravies, and traditional spice blends.",
+          "image": "assets/products/coriander-powder.webp",
+          "hoverImage": "assets/products/coriander-powder-hover.webp"
+        },
+        {
+          "id": "whole-black-pepper",
+          "title": "Whole Black Pepper",
+          "category": "spices",
+          "description": "Premium quality whole black peppercorns with sharp and pungent flavour. Perfect for grinding fresh and adding to any dish.",
+          "image": "assets/products/whole-black-pepper.webp",
+          "hoverImage": "assets/products/whole-black-pepper-hover.webp"
+        },
+        {
+          "id": "whole-clove",
+          "title": "Whole Clove",
+          "category": "spices",
+          "description": "Aromatic whole cloves with warm and slightly sweet flavour. Used in spice blends, teas, and traditional Indian and Middle Eastern dishes.",
+          "image": "assets/products/whole-clove.webp",
+          "hoverImage": "assets/products/whole-clove-hover.webp"
+        },
+        {
+          "id": "poppy-seed",
+          "title": "Poppy Seed",
+          "category": "spices",
+          "description": "Tiny black poppy seeds with a subtle nutty flavour. Essential ingredient for traditional Indian cuisine and baking.",
+          "image": "assets/products/poppy-seed.webp",
+          "hoverImage": "assets/products/poppy-seed-hover.webp"
+        },
+        {
+          "id": "sesame-seeds",
+          "title": "Sesame Seeds",
+          "category": "spices",
+          "description": "Nutritious sesame seeds with a rich, toasty flavour. Perfect for garnishing, roasting, or creating traditional spice pastes.",
+          "image": "assets/products/sesame-seeds.webp",
+          "hoverImage": "assets/products/sesame-seeds-hover.webp"
+        },
+        {
+          "id": "turmeric-powder",
+          "title": "Turmeric Powder",
+          "category": "spices",
+          "description": "Golden turmeric powder with warm, earthy flavour and potent anti-inflammatory properties. Staple in Indian cooking and wellness.",
+          "image": "assets/products/turmeric-powder.webp",
+          "hoverImage": "assets/products/turmeric-powder-hover.webp"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "source": "https://keerthiagro.com/next-story",
+  "assets": [
+    {
+      "originalFile": "logo.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo-158-x-74%20%282%29-ITMxt0Z9M1NicT5sWrb8OZeD9SU7OI.webp",
+      "bytes": 1568
+    },
+    {
+      "originalFile": "fields.webm",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/5%20fitted_white-hmv8vnh2jFWOzvQbDSaCgMLBdYbWdh.webm",
+      "bytes": 9288925
+    },
+    {
+      "originalFile": "mill-1998.webm",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/1_white-bIsSr2Wd9WV8QQ131tIcKIWUxBXGMW.webm",
+      "bytes": 6959552
+    },
+    {
+      "originalFile": "operations-2010.webm",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/3_1_new2%20%282%29-6MZWpM7nHUek9IsmcF5xk8zGc0BRTP.webm",
+      "bytes": 7146267
+    },
+    {
+      "originalFile": "delivery-truck.png",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/lorry%20img%20%203%20%281%29-PuWRhrOwdrfzf9xnDF1LgXIPhnGKuz.png",
+      "bytes": 3677424
+    },
+    {
+      "originalFile": "roadside-trees.png",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Asset%207%402x-FxrIypZeyvh1OCQ4yMo9WuDwAB0Dlx.png",
+      "bytes": 1664645
+    },
+    {
+      "originalFile": "distribution-2005.webm",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/2_white-FwoB2dzRFBlfY9Ay0XlnGZlRTyqD4b.webm",
+      "bytes": 5665668
+    },
+    {
+      "originalFile": "facility-2020.webm",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/4_white-8C14MZfWBaNSholiUPldRxwBn3oeLS.webm",
+      "bytes": 8193057
+    },
+    {
+      "originalFile": "legacy-2025.webm",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/6_white%20%282%29-yiUi34vpNqpWmyqIuOmVlcKoQYcLSh.webm",
+      "bytes": 7800171
+    },
+    {
+      "originalFile": "journal-1.jpeg",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/BLOG-BANNER_Artboard-3-copy-2.jpg-2-1-scaled-Zj5nU6hNJDJF6sJdQKdQ6MX04SgV6S.jpeg",
+      "bytes": 326282
+    },
+    {
+      "originalFile": "journal-2.jpeg",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/BLOG-BANNER_Artboard-3-copy-2.jpg-1-1ByGpEtkxdd4lmcGIpFYnq3Y0iRLaw.jpeg",
+      "bytes": 500441
+    },
+    {
+      "originalFile": "journal-3.jpg",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/BLOG-BANNER_Artboard-3-copy-2-65ff53LLS4r8ggsRFW7fUKCJuDHndU.jpg",
+      "bytes": 798941
+    },
+    {
+      "originalFile": "journal-4.jpeg",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/BLOG-BANNER-03.jpg-1-BNbVRNvcNMmIfE7XnXjKct4doSEX2W.jpeg",
+      "bytes": 916605
+    },
+    {
+      "originalFile": "journal-5.jpeg",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/BLOG-BANNER-02.jpg-1-3aEb60nQ2CFTNTILUvs7GO9SIaPVPg.jpeg",
+      "bytes": 550616
+    },
+    {
+      "originalFile": "journal-6.jpeg",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/BLOG-BANNER.jpg-ONGOZrFsnaHHYNtfqLCiShPmKxOAfY.jpeg",
+      "bytes": 429461
+    },
+    {
+      "originalFile": "delivery-truck-2.png",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/lorry%20img%20%202-G75tBMdiy4t0MBXuktl3GRVYazXOqy.png",
+      "bytes": 3413561
+    },
+    {
+      "originalFile": "delivery-truck-3.png",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/lorry%20img%20%203%20%282%29-t2wLoHmxNori5kaArOhGNedc5CImDs.png",
+      "bytes": 3810859
+    }
+  ],
+  "note": "Original brand artwork from the reference page. Optimized local MP4 videos, WebP stills and sprites, and GIF exports are included. Original downloads are archived in .preview/story-originals during development.",
+  "outputScenes": [
+    {
+      "video": "fields.mp4",
+      "poster": "fields.webp",
+      "gif": "gifs/fields.gif"
+    },
+    {
+      "video": "mill-1998.mp4",
+      "poster": "mill-1998.webp",
+      "gif": "gifs/mill-1998.gif"
+    },
+    {
+      "video": "distribution-2005.mp4",
+      "poster": "distribution-2005.webp",
+      "gif": "gifs/distribution-2005.gif"
+    },
+    {
+      "video": "operations-2010.mp4",
+      "poster": "operations-2010.webp",
+      "gif": "gifs/operations-2010.gif"
+    },
+    {
+      "video": "facility-2020.mp4",
+      "poster": "facility-2020.webp",
+      "gif": "gifs/facility-2020.gif"
+    },
+    {
+      "video": "legacy-2025.mp4",
+      "poster": "legacy-2025.webp",
+      "gif": "gifs/legacy-2025.gif"
+    }
+  ],
+  "trucks": {
+    "truck-early.webp": "delivery-truck.png",
+    "truck-growth.webp": "delivery-truck-3.png",
+    "truck-modern.webp": "delivery-truck-2.png"
+  }
+}

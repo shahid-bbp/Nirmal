@@ -1,0 +1,961 @@
+{
+  "source": "https://keerthiagro.com/product",
+  "assets": [
+    {
+      "file": "category-rice.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/long%20grain%20matta%20rice-Fw9Ssr3l1uKM6q1qAm4x5aoa8305PS.png"
+    },
+    {
+      "file": "category-rice-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/long%20grain%20matta%20rice%20%2C2-cT0enhwAhUoY0OOvzTqhh7zi9LHZiH.png"
+    },
+    {
+      "file": "raw-rice.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/RAW-RICE-dG7WYCD1YMiUjdKPiZi7RYIpdmPMvC.png"
+    },
+    {
+      "file": "raw-rice-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/RAW-RICE%202-jSKsdqW7LRThIbZcjlPgKj5ER02ZAP.png"
+    },
+    {
+      "file": "matta-raw-rice.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/NIRMAL%20MATTA%20RAW%20RRICE%20GREEN-UkAoR2jYX79yhDRLWyPN6tNmeU4SdX.png"
+    },
+    {
+      "file": "matta-raw-rice-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/NIRMAL%20MATTA%20RAW%20RRICE%20GREEN%202-JKeJpmWGy2qGayNLawrLVZAhuF5i0f.png"
+    },
+    {
+      "file": "yellow-kuruva-rice.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/yellow%20kuruva%20%20rice-LV24JATU6nHkLtxxOzT4QeFc50strU.png"
+    },
+    {
+      "file": "yellow-kuruva-rice-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/yellow%20kuruva%20%20rice%202-sL8SaCwaxOLmyjpXCwd3e2OemTWRtu.png"
+    },
+    {
+      "file": "matta-broken-rice.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/MATTA-BROKEN-RICE-j8iPyW6OZRmxbkpD46M2LFQIGOgJr2.png"
+    },
+    {
+      "file": "matta-broken-rice-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/MATTA-BROKEN-RICE%202-wYEWtIWmXKgAK3S9R9Vwhy792p2gjI.png"
+    },
+    {
+      "file": "short-grain-matta-rice.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/short%20grain%20matta-HoZu7WyyUBz8lDN0pgwPRFn5a92t9l.png"
+    },
+    {
+      "file": "short-grain-matta-rice-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/short%20grain%20matta%202-wUa4lycpBgLY5fJFYtZoRd94KFwlW8.png"
+    },
+    {
+      "file": "semi-bran-rice.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/SEMI%20bran%20rice-EQPsv27sbglgCfVSW6ZD6XSrADb6dD.png"
+    },
+    {
+      "file": "semi-bran-rice-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/SEMI%20bran%20rice%202-GwEm5E4kzItclcbWPcXLAyfdugpBFL.png"
+    },
+    {
+      "file": "nice-matta-broken-rice.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/NICE-MATTA-BROKEN-RICE-mjyYK1DZlQjKL22LTI8i8h8JAubiLm.png"
+    },
+    {
+      "file": "nice-matta-broken-rice-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/NICE-MATTA-BROKEN-RICE%202-R4XVJziOynS6sVHLjQKPhGCVbdQG8f.png"
+    },
+    {
+      "file": "long-grain-matta-rice.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/long%20grain%20matta%20rice-p2C1uVHeZICiD5oF1wbw15jJAmyIAn.png"
+    },
+    {
+      "file": "long-grain-matta-rice-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/long%20grain%20matta%20rice%202-Oc1ZGxblZzUGMSNd1lcaMi6x2q0Alp.png"
+    },
+    {
+      "file": "ponni-rice.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Ponni%20RICE-HuR7H71mzu28VeZXKmSGxwUg5OKhYD.png"
+    },
+    {
+      "file": "ponni-rice-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Ponni%20RICE%202-gJHYQt79N8gjL1glzgnQVXEFeGVRKd.png"
+    },
+    {
+      "file": "catering-long-grain-matta-rice.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/NIRMAL%20CATERING%20LONG%20GRAIN%20MATTA%20RICE-lrzrYiTTnATvBCsvBtmr2rott0oqV5.png"
+    },
+    {
+      "file": "catering-long-grain-matta-rice-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/NIRMAL%20CATERING%20LONG%20GRAIN%20MATTA%20RICE%202-e4FNKuwynuPYNJQMs8UrGoSTNEQaKq.png"
+    },
+    {
+      "file": "full-bran-rice.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/full%20bran%20rice-Sm5GtbItoKV8q5H4eAEVO4EW8abWi5.png"
+    },
+    {
+      "file": "full-bran-rice-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/full%20bran%20rice%202-IZcogum9yKZBe00Q4xwKmXjHlv2TcM.png"
+    },
+    {
+      "file": "asd16-rice.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ASD16%205KG%20%281%29-yoYIp7AIzh9d5Ybid75Ediosf61Dl5.png"
+    },
+    {
+      "file": "asd16-rice-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ASD16%205KG%202-ENZxZJb9OZavabBjVQqPmiDK5QQTMG.png"
+    },
+    {
+      "file": "surekha-rice.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/surekha-1-kg-MwACCIOSiVZ15VFXJwPTJZph1jFvou.png"
+    },
+    {
+      "file": "surekha-rice-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/surekha-1-kg%202-5uIBKUB2PYUF63Ybx9OTnDPV64eYYf.png"
+    },
+    {
+      "file": "idili-rice.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IDILI%20RICE-qHjFuuCT8GU8qQ5KVASIlggvydx56B.png"
+    },
+    {
+      "file": "idili-rice-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IDILI%20RICE%202-U6X2Et0L2ksIy5xlKiq6rVw8IGXAiD.png"
+    },
+    {
+      "file": "single-boiled-rice.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/SINGLE%20BOILD-X0n4iW6EYNuIwCr8VU2mxrNa4PHKK7.png"
+    },
+    {
+      "file": "single-boiled-rice-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/SINGLE%20BOILD%202-larHG8Ux7gYQfH5XSL2ltFcl8C0N3W.png"
+    },
+    {
+      "file": "wayanadan-thondi-rice.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WAYANADAN-THONDI-RICE-r1DcGqNG9RUr78UQNBz1QpmVo9RMzn.png"
+    },
+    {
+      "file": "wayanadan-thondi-rice-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WAYANADAN-THONDI-RICE%20%202-ZmVUBwPbl2gPqdd4PzsCP61fisecEc.png"
+    },
+    {
+      "file": "white-kuruva-rice.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/white%20kuruva%20rice-g3HbMaTvO7cXXYyecQANglqhtMPbcY.png"
+    },
+    {
+      "file": "white-kuruva-rice-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/white%20kuruva%20rice%202-bzximkdJNnMuSiruRgQ1uTgPW1nX0R.png"
+    },
+    {
+      "file": "al-reem-kaima-rice.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/alreem%20rice-QzxzIiHkcyN8kzT4gsSjfu63qGPYhu.png"
+    },
+    {
+      "file": "al-reem-kaima-rice-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/alreem%20rice%202-qfAuFV8Ka6q8ZpSIGtZL31LdZMRwqg.png"
+    },
+    {
+      "file": "jaya-rice.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/jaya%20rice%20%281%29-zwCGEI3JBNg63535HsKNH5yaAMcDfO.png"
+    },
+    {
+      "file": "jaya-rice-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/jaya%20rice%202-hlMNoX2uY3Kv4u4rTxpsTXaWosqwkW.png"
+    },
+    {
+      "file": "ir8-raw-rice.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IR8-RAWRICE-jAh7M9e3uAcitFJ8iZmCaOIYqiyJcn.png"
+    },
+    {
+      "file": "ir8-raw-rice-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IR8-RAWRICE%202-WEKIT7be05jOuXbjfezelfYmbivipF.png"
+    },
+    {
+      "file": "kaima-jeerakasala-rice.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Kaima-F-18-KG_%20MOCKUP-iR4BrjnHuZDPaOoG9OA5in2b8dnU2R.png"
+    },
+    {
+      "file": "kaima-jeerakasala-rice-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Kaima-F-18-KG_%20MOCKUP%202-X168fwaqIxCfkbnjLdAlBtB6GIMkxm.png"
+    },
+    {
+      "file": "kranthi-rice.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/KRANTHI%205KG-QPLGd1yqehqRVK3MaKOXmpMmUnHSju.png"
+    },
+    {
+      "file": "kranthi-rice-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/KRANTHI%205KG%202-7aZYLRbmFlYYVZUd5p2iMRideEKHN2.png"
+    },
+    {
+      "file": "category-oils.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/COCONUT-OIL-1-L%20powch-9V6a7YAQmART82mdrRsgoDjMjv3jlp.png"
+    },
+    {
+      "file": "category-oils-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/COCONUT-OIL-1-L%20powch%202-ZzcACftmh7S1Lni7n9plWAH4LE9NkV.png"
+    },
+    {
+      "file": "cocopure-bottle.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/coconut-oil-200-ml.jpg3-LiH1XWUMHu3eNU48oDi4puPITlK0G9.png"
+    },
+    {
+      "file": "cocopure-bottle-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/coconut-oil-200-ml.jpg3%202-6zHvt5myGLqujjtS5DhD1eeasUxSUP.png"
+    },
+    {
+      "file": "cocopure-hdpe-bottle.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/coconut%20yellow%20bottle%201%20ltr-1jW7rV9J6UiO78uYabOxKYZEG9yy8P.png"
+    },
+    {
+      "file": "cocopure-hdpe-bottle-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/coconut%20yellow%20bottle%201%20ltr%202-Xz0RqTcMxVmcmg78WsJ9nMJ75gzCK5.png"
+    },
+    {
+      "file": "cocopure-premium-jar.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/f-2-l-coconut-oil-jaar-GMw7DF1mIjPdfxtQbZkrqVBtyYHq25.png"
+    },
+    {
+      "file": "cocopure-premium-jar-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/f-2-l-coconut-oil-jaar%202-tgbRpjKKdU3HpJAKkpWAjBhSAtxTUy.png"
+    },
+    {
+      "file": "cocopure-pouch.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/COCONUT-OIL-1-L%20powch-SL4H88CVMqgyNYNjROeISlyLVetPTx.png"
+    },
+    {
+      "file": "cocopure-pouch-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/COCONUT-OIL-1-L%20powch%202-YA12bdGVxKgKriUpx9F8SlUmbQuzrf.png"
+    },
+    {
+      "file": "cocopure-hdpe-can.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/cocopure%20hdpe%20can%20%282%29-SVYzzC10fivwLF4HAToJh5s8rR6TXv.png"
+    },
+    {
+      "file": "cocopure-hdpe-can-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/cocopure%20hdpe%20can%202-NNTbPFeEFSjT2EWYtyZ3e938gvI05L.png"
+    },
+    {
+      "file": "cocopure-can.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/nirmal%20can-sB4aWmiZ9SP5vV41lBfBNScORC39vo.png"
+    },
+    {
+      "file": "cocopure-can-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/nirmal-can--y1ZCFFSVHJcRhFjBdZ5HJiqwtKFZBJ.png"
+    },
+    {
+      "file": "cocopure-bulk-tin.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/coconut%20oil%20coco%20pure%2015%20kg%20tin-Dp5c3FhOyZSfYheDgDryVwZgedpYYH.png"
+    },
+    {
+      "file": "cocopure-bulk-tin-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/coconut%20oil%20coco%20pure%2015%20kg%20tin%202-wjExxiBmygOLuu2EKOqkrLN02Kt179.png"
+    },
+    {
+      "file": "sun-pure-sunflower-oil.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/sun%20pure-0LNw93HWZEWIcBFZRlroQfH3t0EqEm.png"
+    },
+    {
+      "file": "sun-pure-sunflower-oil-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/sun%20pure%202-SXksW65uBx7hcHAbd8jqCb0my2mhLT.png"
+    },
+    {
+      "file": "sun-pure-sunflower-oil-tin.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/sun%20fllower%20tin%2015%20ltr-gbQssb0gPnTiz2GTQM850zJSbazK1r.png"
+    },
+    {
+      "file": "sun-pure-sunflower-oil-tin-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/sun%20fllower%20tin%2015%20ltr%202-pNmLOz0qfD07fB65bIN4N9c1argIRH.png"
+    },
+    {
+      "file": "palm-pure-palmolein-oil.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/palm-oil-oil-mockup-500-ml-final-UDiCeJnIcuNwvVT9Fd7L03gGZkoxbH.png"
+    },
+    {
+      "file": "palm-pure-palmolein-oil-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/palm-oil-oil-mockup-500-ml-final%202-9NUAi8V0hurO3BZUGrL454Z7BZku1x.png"
+    },
+    {
+      "file": "palm-pure-palmolein-oil-tin.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Palmolein%20tin%2015%20ltr-E0porznKyPV9jADv2Zns6Fo79MT5td.png"
+    },
+    {
+      "file": "palm-pure-palmolein-oil-tin-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Palmolein%20tin%2015%20ltr%20-%202-jFgHwjsQ8mCsIgeactm4XEUh1UfsNw.png"
+    },
+    {
+      "file": "category-breakfast.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/steam%20puttu%20podi%20500gm-kyzYngvnvFawnTReRjZyVKYoKr2xYo.png"
+    },
+    {
+      "file": "category-breakfast-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/steam%20puttu%20podi%20500gm%202-icaaNeYSSZJBzL8YqUfS2gtr4n618t.png"
+    },
+    {
+      "file": "steam-puttu-podi.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/steam%20puttu%20podi%20500gm%20%281%29%20%281%29-e7Q9uO9v4zQx10y0zDnGQXpEIJHSXn.png"
+    },
+    {
+      "file": "steam-puttu-podi-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/steam%20puttu%20podi%20500gm%202%20%281%29-3gIAnzrXsKmmE0gu3yWa81XH9j1gLW.png"
+    },
+    {
+      "file": "instant-dosa-mix.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/INSTANT%20DOSA%20MIX-evhAe7PVcLh5XdtPtmyiQTorhFNjlM.png"
+    },
+    {
+      "file": "instant-dosa-mix-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/INSTANT%20DOSA%20MIX%202-zi7icgIOkMFu4N7Qe06bzxdgwgHgV8.png"
+    },
+    {
+      "file": "roasted-rava.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ROASTED%20RAVA-qgfrMiQgvnvTRIQraMhnuxdcCpszIG.png"
+    },
+    {
+      "file": "roasted-rava-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ROASTED%20RAVA%202-Feyj0U7NkQ7oAp1wIzjhu3d6zpGkIP.png"
+    },
+    {
+      "file": "chemba-puttu-podi.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/CHEMBA%20PUTTU%20PODI-tAMP4cI7zlX3L4V2hC0qrODVUBLlur.png"
+    },
+    {
+      "file": "chemba-puttu-podi-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/CHEMBA%20PUTTU%20PODI%202-XcCzPeED6HKBlbVLcseC7fct23tbnj.png"
+    },
+    {
+      "file": "atta-wheat-flour.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ATTA-inITm53TxcHESxtNLCTWBL4Wj5Dh97.png"
+    },
+    {
+      "file": "atta-wheat-flour-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ATTA%202-ZbtHodXZNphnpxxJg60hTGTztDbc6a.png"
+    },
+    {
+      "file": "roasted-ragi-powder.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ROASTED%20RAGI%20POWDER-Vue1Fb4H68VbMWUeQz4cX5RnNgFY5s.png"
+    },
+    {
+      "file": "roasted-ragi-powder-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ROASTED%20RAGI%20POWDER%202-NU2QxbtThPm3fQJ8Reb2MLYW5jIh5B.png"
+    },
+    {
+      "file": "wheat-puttu-podi.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WHEAT%20PUTTU%20PODI-1VFyimNe7qYEPELDnWJuFQaK5s0pye.png"
+    },
+    {
+      "file": "wheat-puttu-podi-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WHEAT%20PUTTU%20PODI%202-sQcQltxFWSeBBFztApkXV0zuOSehBL.png"
+    },
+    {
+      "file": "instant-idli-mix.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/INSTANT%20IDLI%20MIX-Lj6To3w6N890f6HUkaDyWALnrDHaMc.png"
+    },
+    {
+      "file": "instant-idli-mix-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/INSTANT%20IDLI%20MIX%202-07O26c9RTWsCd5syyKQSheYBOSFzet.png"
+    },
+    {
+      "file": "steam-ragi-puttu-podi.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/STEAM%20RAGI%20PUTTU%20PODI-6sHEt6jAnjHBnegVp52o2AZFN4ZWEm.png"
+    },
+    {
+      "file": "steam-ragi-puttu-podi-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/STEAM%20RAGI%20PUTTU%20PODI%202-2nrUeRot7d1KG9xeL3oxraobFSwFv0.png"
+    },
+    {
+      "file": "category-essentials.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Sugar-i7-gwcL7sBHbdoQYDqql2Po4kPI6tRJj5.png"
+    },
+    {
+      "file": "category-essentials-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Sugar-i7%20.%202-AFUt1KQ36YLudw0XsAYkj9g5XpCibY.webp"
+    },
+    {
+      "file": "garlic-paste.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/b-GARLIC-PASTE-400-GM-KZRv6wFvzCBa0A9KYJ8FT5Y6s68Lrz.png"
+    },
+    {
+      "file": "garlic-paste-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/b-GARLIC-PASTE-400-GM%202-9y7bj3AcEaAFGvDxK7YWC0F6isGrA2.png"
+    },
+    {
+      "file": "ginger-garlic-paste.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/GINGER%20GARLIC-PASTE-400-GM-FyUO4qqGoaBssinabhxclLq98Ws9RA.png"
+    },
+    {
+      "file": "ginger-garlic-paste-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/GINGER%20GARLIC-PASTE-400-GM%202-mxHDGl5UT2Y7g3Qpg8ZffZuMIu74l4.png"
+    },
+    {
+      "file": "ginger-paste.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/F-GINGER-400-GM-SC9G9JCVLvwhsUI3A4mCoCKHH8bA1l.png"
+    },
+    {
+      "file": "ginger-paste-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/F-GINGER-400-GM%202-rMc20e6Cp3ZUnmwZdAzwpjJhF8chGI.png"
+    },
+    {
+      "file": "sugar.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Sugar-i7_new-Base_v3-rjveDH6x3o2iadCd6sj5EEXnMUf8re.png"
+    },
+    {
+      "file": "sugar-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Sugar-i7_new-Base_v3%202-vLGGVNUB46CP78sOl87TYknNNBSWIW.png"
+    },
+    {
+      "file": "soya-chunks.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/F-soya-chucks-200-GM-gB926UgsyLqxRC3bF8DKj1306rYPTY.png"
+    },
+    {
+      "file": "soya-chunks-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/F-soya-chucks-200-GM%202-Hqpayj4T8tcyCez83OAB7yP4zXdFUJ.png"
+    },
+    {
+      "file": "jaggery-powder.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Nirmal-Jaggery_Mockup%20%281%29-1wpT5s2xSUF9gJNNJuP03cCK7bNHzx.png"
+    },
+    {
+      "file": "jaggery-powder-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Nirmal-Jaggery_Mockup%202%20%281%29-OQaJOEgx8Qlraaa83b5sUTKldAhvMX.png"
+    },
+    {
+      "file": "jaggery.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/jaggery-round-mockup-BgCm8Xoeaj246L6VcZpDy3o1yxoQcP.png"
+    },
+    {
+      "file": "jaggery-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/jaggery-round-mockup%202-YGGXjgWr6vU8W0hioVYGm9zqR3pZjJ.png"
+    },
+    {
+      "file": "iodised-free-flow-salt.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Nirmal-Salt-Mockup%20Powdered%20%281%29-4PqpVyJF8bGTIRXwFQREUCNSdLuwQV.png"
+    },
+    {
+      "file": "iodised-free-flow-salt-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Nirmal-Salt-Mockup%20Powdered%202%20%281%29-QRaVAs2YjEHBrDdviglB7u1dhBwBRF.png"
+    },
+    {
+      "file": "soya-balls.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/F-soya-balls200-GM-0Q6CSxMmwnCDihAJAbdPzXVGXOq6k5.png"
+    },
+    {
+      "file": "soya-balls-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/F-soya-balls200-GM%202-HgZjV0OD3njaKGxZLF8CODGIrmKA6L.png"
+    },
+    {
+      "file": "distilled-white-vinegar.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/white%20vinegar-BExdFuMK2dO7IjDPjEfWvK1lYpDXjB.png"
+    },
+    {
+      "file": "distilled-white-vinegar-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/white%20vinegar-2-UIwiv1MbyYKHjvRZdKaydKjpeZW7LG.png"
+    },
+    {
+      "file": "asafoetida-hing.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Asafoetida-500gm-mockup-2qBjxqcuwRO4IQqwRJnlZDEJjYsUqb.png"
+    },
+    {
+      "file": "asafoetida-hing-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Asafoetida-500gm-mockup%202-MTkfIR3WON6H1ju5wiFmOaBpTyfJrF.png"
+    },
+    {
+      "file": "iodised-crystal-salt.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Nirmal-Iodised-Crystal-Salt_Mockup-eVAqvmQBhli7miLdXxYCEwkx5wedv9.png"
+    },
+    {
+      "file": "iodised-crystal-salt-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Nirmal-Iodised-Crystal-Salt_Mockup%202-TyLzsY5KwfW4npwjfqBIfFY84ptYzU.png"
+    },
+    {
+      "file": "tamarind.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/tamerind-An0afxU1Xw9ATeVg1f7ZvRrzwHhzkg.png"
+    },
+    {
+      "file": "tamarind-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/tamerind%202-XihpzlX1cOKcbK4NUbyw5xah20XgNj.png"
+    },
+    {
+      "file": "category-pulses.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Red%20Peas%20%28Vanpayar%29-GcJ4TSAEcjHltjmQ7iRqXe1QAQlwMu.png"
+    },
+    {
+      "file": "category-pulses-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Red%20Peas%20%28Vanpayar%29%202-NQxxFtaFNmdXISTtVzuTgasNsT6qU2.png"
+    },
+    {
+      "file": "green-peas.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/GREEN-PEAS%201KG-9pOtdSW0vYUuWymCJnscyMiBNn8w6z.png"
+    },
+    {
+      "file": "green-peas-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/GREEN-PEAS%201KG%202-YoSAPyI9Qyz0PKjxBERpwTvQU3k5az.png"
+    },
+    {
+      "file": "masoor-dal.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Masoor%20Dal-HsOxbVjGeOTme44W61R5xSH6nC5t3f.png"
+    },
+    {
+      "file": "masoor-dal-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Masoor%20Dal%202-AfnFekbgeBA1GnhKex5KQKfqQjTCWz.png"
+    },
+    {
+      "file": "green-gram-cherupayar.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Green%20Gram%20%28Cherupayar%29-uC3x76A6rlpgWL7yB2PO7QZpd4pR6K.png"
+    },
+    {
+      "file": "green-gram-cherupayar-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Green%20Gram%20%28Cherupayar%29%202-7pp9dq8TW34X5Q7IrB3G5MxVLABRge.png"
+    },
+    {
+      "file": "red-peas-vanpayar.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Red%20Peas%20%28Vanpayar%29-6OjHWw9LfAy0Jk9W5SF69ZGH9YiZnm.png"
+    },
+    {
+      "file": "red-peas-vanpayar-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Red%20Peas%20%28Vanpayar%29%202-8CvHvN8unUSaWiIrErUqVyltxvmB4f.png"
+    },
+    {
+      "file": "white-chana.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WHITE%20CHANA-p905UAPqhKTsn2LuHwAYGidiepwXgo.png"
+    },
+    {
+      "file": "white-chana-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WHITE%20CHANA%202-ufx9eDO4NhJAW3TBLIz7dJhTToZFi6.png"
+    },
+    {
+      "file": "black-chana.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/BLACK-CHANA-GdWoNHTzBkhGEowxd7CqBaUSqiKzY7.png"
+    },
+    {
+      "file": "black-chana-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/BLACK-CHANA%202-xfWoO9kMzHhjAGaXDNSn14wEBfFFZZ.png"
+    },
+    {
+      "file": "moong-dal.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Moong%20Dal-vyhmWjmrv291VvoLhdUri20LTULwfL.png"
+    },
+    {
+      "file": "moong-dal-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Moong%20Dal%202-aTXZXM54cTS7mlHpHtigSROY6pDagW.png"
+    },
+    {
+      "file": "horse-gram.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Horse%20Gram%20-%20Copy-uEXrbKsD4n7WvXRMYDDAmsw4VLvkaU.png"
+    },
+    {
+      "file": "horse-gram-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Horse%20Gram%20-%20Copy%202-qe2j2iARr0Z0TaTppW1eQXTibd6AQm.png"
+    },
+    {
+      "file": "urad-gota-urad-whole.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Urad%20Whole%20%28Urid%20Gota%29-2zYa5lfavBe3ioEBzIkamx5Fdvgb5D.png"
+    },
+    {
+      "file": "urad-gota-urad-whole-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Urad%20Whole%20%28Urid%20Gota%29%202-E8yNKDCZXEMkicMZ6bK06Of1gUSTxd.png"
+    },
+    {
+      "file": "ragi-whole.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/raagi-fmBQqT2a11a60Ac5PPR6o76DNY94n4.png"
+    },
+    {
+      "file": "ragi-whole-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/raagi%202-Rae4EyfIeuOhC9VMKXusW3WO1npS8T.png"
+    },
+    {
+      "file": "urad-dal-split.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Urad%20Dal%20-%20Copy-CMl70ENR82oogQTxf4orVJ5WmDL1Am.png"
+    },
+    {
+      "file": "urad-dal-split-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Urad%20Dal%20-%20Copy%202-84iejWoyaDOFVttOmFuamaPDVm19Jf.png"
+    },
+    {
+      "file": "toor-dal.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/TOOR-DAL-jrD1j0zqXo8qJUWY948SRnQYlHnK4n.png"
+    },
+    {
+      "file": "toor-dal-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/TOOR-DAL%202-gG9SvmJcAh2OiUYjRdNKGzVoOqaOFb.png"
+    },
+    {
+      "file": "category-pickles.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/lemon%20pickle-BUoQQSOMIolsCfRR96WMGJll9Hxzk8.png"
+    },
+    {
+      "file": "category-pickles-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/lemon%20pickle%202-m6exCABEk1ahnBbwzoATcYL3ilxw5b.png"
+    },
+    {
+      "file": "prawns-pickle.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Prawns-mDACxFnFxnz2a65zu8sAt28lup6zFv.png"
+    },
+    {
+      "file": "prawns-pickle-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Prawns%202-vr4hg0JcOIUzpUsImen5zJOCVPg76i.png"
+    },
+    {
+      "file": "tender-mango-pickle.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Tender%20Mango-jOjhmJRKZqA2aLafL6IS58kLe5TacD.png"
+    },
+    {
+      "file": "tender-mango-pickle-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Tender%20Mango%202-lOC74bvKDuf75i0Un3TLh7Ar28Iznr.png"
+    },
+    {
+      "file": "hot-sweet-pickle.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/hot%20%26%20Sweet-wPYW8WzJEg4OZPq8WnJRW12UKRjs2U.png"
+    },
+    {
+      "file": "hot-sweet-pickle-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/hot%20%26%20Sweet%202-GwWaybfsxqeOePzBA8Y9ezMM0xjiMX.png"
+    },
+    {
+      "file": "garlic-pickle.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/garlic-eGHMkaZJH2bSPxVBXIWTXoNNkxyetv.png"
+    },
+    {
+      "file": "garlic-pickle-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/garlic%202-XXMJnHCHFadrlZtODpSgyPO3MDFsmd.png"
+    },
+    {
+      "file": "sliced-mango-pickle.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Sliced%20Mango-6bNIoduBi6zeTqwtx1npkbHfWCoXiJ.png"
+    },
+    {
+      "file": "sliced-mango-pickle-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Sliced%20Mango%202-eL7G9SIPN827FRVLTApKXJA6fJ2A2h.png"
+    },
+    {
+      "file": "mango-ginger-pickle.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Mango%20Ginger-OGhV3NII34eQAq69eLVm1GTeFrd1L0.png"
+    },
+    {
+      "file": "mango-ginger-pickle-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Mango%20Ginger%202-FwPMGG3Z0Mwxf18XsA3usdxHEZ52Rt.png"
+    },
+    {
+      "file": "puli-inchi-pickle.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Puli%20Inchi-hG4bR2cL13ZRWyBBlVcXHrS41kEgYt.png"
+    },
+    {
+      "file": "puli-inchi-pickle-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Puli%20Inchi%202-VQCI4tCyjWlL4Sy9x1zDa7m365riik.png"
+    },
+    {
+      "file": "mixed-vegetable-pickle.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Mixed%20Vegetable-VNm0fNRjrTOBofs81h0AqC1y96O5N5.png"
+    },
+    {
+      "file": "mixed-vegetable-pickle-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Mixed%20Vegetable%202-n3L93nKCal71guw0clrIwJ9gq7ExxD.png"
+    },
+    {
+      "file": "lemon-pickle.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/lemon-6at1imusORal33ADQQhzBOgO84TFqK.png"
+    },
+    {
+      "file": "lemon-pickle-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/lemon%202-N1F3N9aecwVKEkC4sWwMhZQTk9QmCi.png"
+    },
+    {
+      "file": "fish-pickle.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/fish-9xV78rLwsMMl0LN0WISdOAGbwMi9zt.png"
+    },
+    {
+      "file": "fish-pickle-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/fish%202-E8Nv6SPT5CumrYH7MdheVHCXDFUSyc.png"
+    },
+    {
+      "file": "idi-irachi-pickle.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Idi%20Irachi-l5jzHKJpdgb9a4xWdsUDd0Y16pPGYt.png"
+    },
+    {
+      "file": "idi-irachi-pickle-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Idi%20Irachi%202-rui2rXr7ss9fDNEXiSnErumk8kZS4k.png"
+    },
+    {
+      "file": "category-snacks.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ACHAPPAM%20150G-jLFIpx48BDrzMyV22W209UNGh9liO4.png"
+    },
+    {
+      "file": "category-snacks-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ACHAPPAM%20150G%202-AIAElrDlzLPSqg3Rp0ErSVV6QReKlg.png"
+    },
+    {
+      "file": "tapioca-chips-chilli.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/TAPIOCA%20CHIPS%20CHILLI%20150G%20%281%29-91oeHP5mRidT5ZnvlswaTI9Po9vgtj.png"
+    },
+    {
+      "file": "tapioca-chips-chilli-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/TAPIOCA%20CHIPS%20CHILLI%20150G%20%281%29%202-Tby3TK6C50P9yAMSgS9MYRB7HkMsdl.png"
+    },
+    {
+      "file": "spring-murukku.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/SPRING%20MURUKKU%20200G-XvfPJYIz4pYfWSjwhxA8aXpEE3qgh7.png"
+    },
+    {
+      "file": "spring-murukku-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/SPRING%20MURUKKU%20200G%202-WHVSjnMiY1o4ncKpvwROMs8VJGpf6f.png"
+    },
+    {
+      "file": "peanut-roast.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/PEANUT%20ROAST%20290%20G%20%281%29-Mtm7iqgZWI7tnnl1c3TIyEbjjCOboJ.png"
+    },
+    {
+      "file": "peanut-roast-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/PEANUT%20ROAST%20290%20G%20%281%29%202-z8RWELr33JgulB4NGMTM7O7hqvLrmS.png"
+    },
+    {
+      "file": "sweet-kuzhalappam.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/SWEET%20KUZHALAPPAM%20270G%20%281%29-gpCRYW34IA8Du8paRtyhjd9drp7vDO.png"
+    },
+    {
+      "file": "sweet-kuzhalappam-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/SWEET%20KUZHALAPPAM%20270G%20%281%29%202-PYrzzDobyxfQ8LgFrMKggXrDBmc5V2.png"
+    },
+    {
+      "file": "kerala-mixture.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/KERALA%20MIXTURE%20350G-RTnKZhpVfnjiQSHDyERAd9mhCwSpdm.png"
+    },
+    {
+      "file": "kerala-mixture-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/KERALA%20MIXTURE%20350G%202-0OKQCCTT3AUm0OKWbZzyujV0GuPd5D.png"
+    },
+    {
+      "file": "pakkavada.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/PAKKAVADA%20200%20G%20%281%29-s6Rmz7UzKaypDg12MG96BOBu3JvJkZ.png"
+    },
+    {
+      "file": "pakkavada-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/PAKKAVADA%20200%20G%20%281%29%202-hr8pVNIeMsEJOUcKfJ9Fbz3ljJtpxy.png"
+    },
+    {
+      "file": "kuzhalappam.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/KUZHALAPPAM%20220G%20%281%29-gcaQeGd9ZCzz5j1Aoe75iHDBOTBd82.png"
+    },
+    {
+      "file": "kuzhalappam-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/KUZHALAPPAM%20220G%20%281%29%202-1u11YBXJO4W99CWNDcjhy6iFTa8EzV.png"
+    },
+    {
+      "file": "sharkara-varatti.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/SHARKARA%20VARATTI%20350G-us0r9FYKYofwkkDUCD9BD7H2MPOSyo.png"
+    },
+    {
+      "file": "sharkara-varatti-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/SHARKARA%20VARATTI%20350G%202-sCcH0lQTjsNX8HtjIjgFc3vjsHHYRO.png"
+    },
+    {
+      "file": "nice-mixture.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/NICE%20MIXTURE%20200G-0dO2OnlBXMCgCvl8AfQ7paH0AQkPmn.png"
+    },
+    {
+      "file": "nice-mixture-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/NICE%20MIXTURE%20200G%202-abSU8a0FBkqD8VCUSvZwMMTlRYoc8M.png"
+    },
+    {
+      "file": "palak-murukku.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/PALAK%20MURUKKU%20200G-7CJQ8NSus5uRJqZUi2Uvj3mVKqQIKX.png"
+    },
+    {
+      "file": "palak-murukku-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/PALAK%20MURUKKU%20200G%202-BKntzG67V4ocM2wei2WjydTpkrZui8.png"
+    },
+    {
+      "file": "chilli-mixture.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/CHILLI%20MIXTURE%20200%20G-Y9uvB2coePJLKjEyCYDXTKgLhwxCa0.png"
+    },
+    {
+      "file": "chilli-mixture-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/CHILLI%20MIXTURE%20200%20G%202-WJ91hetr9OEnvS7taBjf9u0F7LCLW3.png"
+    },
+    {
+      "file": "achappam.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ACHAPPAM%20150G-rKHo1UySYws8sQ9nnzvXlM5uydNplS.png"
+    },
+    {
+      "file": "achappam-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ACHAPPAM%20150G%202-t0p9QnWUNBbUXL2SDBCjlGRUPowjAB.png"
+    },
+    {
+      "file": "heart-biscuits.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/HEART%20BISCUITS%20200G-dlGviIa6izG9U3QUPFrC41ff2PnaYK.png"
+    },
+    {
+      "file": "heart-biscuits-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/HEART%20BISCUITS%20200G%202-QvcI9lJus9fgrxfaIU6f2ulNYAldMK.png"
+    },
+    {
+      "file": "ellu-unda-white.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ELLU%20UNDA%20WHITE%20200G-o5CyoHueRVH4iuTmkYibcdqAjq285u.png"
+    },
+    {
+      "file": "ellu-unda-white-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ELLU%20UNDA%20WHITE%20200G%202-lI6BeBOLlk5AumvK0EzO0xJ8ldofz5.png"
+    },
+    {
+      "file": "ellu-unda-black.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ELLU%20UNDA%20BLACK%20200G-xGdS7Vnb4LUXvATbOOzt0N5GMXbml8.png"
+    },
+    {
+      "file": "ellu-unda-black-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ELLU%20UNDA%20BLACK%20200G%202-xjTMNwzvdXkROiDS2ZyQK1XJHOJRYR.png"
+    },
+    {
+      "file": "tapioca-chips-white.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/TAPIOCA%20CHIPS%20WHITE%20150G%20%281%29-dvIDsmQXMFMo3sEPPpUONHt74X58Wh.png"
+    },
+    {
+      "file": "tapioca-chips-white-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/TAPIOCA%20CHIPS%20WHITE%20150G%20%281%29%202-EpIy15Q5ODmCZQhKPg8iMdlKEQDHLc.png"
+    },
+    {
+      "file": "hot-mixture.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/HOT%20MIXTURE%20350G-mcnzNHubmDHrNeDqKYPu3zVXBuCFbd.png"
+    },
+    {
+      "file": "hot-mixture-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/HOT%20MIXTURE%20350G%202-xrrrWDZLczZojXzHHZatGpu0MTmXcW.png"
+    },
+    {
+      "file": "banana-chips.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/BANANA%20CHIPS%20300G%20%281%29-9NfAtl0d5mLTs7NvJv0wlxXXG37ki3.png"
+    },
+    {
+      "file": "banana-chips-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/BANANA%20CHIPS%20300G%20%281%29%202-x41qn0fQJ9AyID607Q7Dx3hvMQLjNC.png"
+    },
+    {
+      "file": "achappam-sweet.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ACHAPPAM%20SWEET%20200g-cdIXR6BhL1ecIaoU4rlg9DupeSbv4h.png"
+    },
+    {
+      "file": "achappam-sweet-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ACHAPPAM%20SWEET%20200g%202-eZCpCvcDVerc4hVwjlPhjuvCuGVdvF.png"
+    },
+    {
+      "file": "cd-murukku.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/CD%20MURUKKU%20200G-mcJ10UcRP7vuExoKpdxjpbhlRquird.png"
+    },
+    {
+      "file": "cd-murukku-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/CD%20MURUKKU%20200G%202-WzP0400N4Shc2gJovC6lDyfaszYqZi.png"
+    },
+    {
+      "file": "category-spices.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/whole-dry-red-chilies-200G-DMB5gnRD9C3ETV7fueyfMWo6G3yl3E.png"
+    },
+    {
+      "file": "category-spices-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/whole-dry-red-chilies-200G%20.%202-3bCxnOUbSscng3r7tPf7PuSPF4riWp.png"
+    },
+    {
+      "file": "whole-dry-red-chillies.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/whole-dry-red-chilies-200G-YbkDFNqFdyY9VffC1xiY7G7wuIND5r.png"
+    },
+    {
+      "file": "whole-dry-red-chillies-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/whole-dry-red-chilies-200G%202-1Op6K4w81lbSS9cy5J1xRBmKsSWt8l.png"
+    },
+    {
+      "file": "whole-cumin.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/whole-cumin-200G-bGy3A73KReP2VFw3VR9P08DFbE6sMH.png"
+    },
+    {
+      "file": "whole-cumin-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/whole-cumin-200G%202-LBqW3HInOvlVKmTTLnVefLJOSfd67o.png"
+    },
+    {
+      "file": "whole-coriander.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/whole-coriander-200G-5es0DTiD6HEz4YOQbf201bZaiAl3kj.png"
+    },
+    {
+      "file": "whole-coriander-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/whole-coriander-200G%202-vcgfSN2O901bMlK9UfQJpfpTEa2K9W.png"
+    },
+    {
+      "file": "bay-leaves.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Bay-Leaves-200G-eOxe0xmvcuoUhwioWJpcg52eHBNGOq.png"
+    },
+    {
+      "file": "bay-leaves-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Bay-Leaves-200G%202-lxNV0BfCgEyCwwBxQx7SB6wKOQiFKl.png"
+    },
+    {
+      "file": "whole-fennel.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/fennel-whole-200G-iXMztb8tYbcizv38Y4GeV0Ejnv2cjz.png"
+    },
+    {
+      "file": "whole-fennel-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/fennel-whole-200G%202-rsCNkPAsbJjHG8rPml4VVYcRqiq5IO.png"
+    },
+    {
+      "file": "whole-green-cardamom.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/green-cardamom-200G-iDP1MwqqOVkGiJzYRSFxSayu43u9rV.png"
+    },
+    {
+      "file": "whole-green-cardamom-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/green-cardamom-200G%202-eYiJKDeEwF9f8bbGxUKXI6GmgR6GMF.png"
+    },
+    {
+      "file": "cumin-powder.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ground-cumin--200G-DiW8hqCRuWiNJL87kgXpUY0RXMAy2X.png"
+    },
+    {
+      "file": "cumin-powder-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ground-cumin--200G%202-lHMQpmHL5Rkzcn0u0oDWCVgAO1e5Am.png"
+    },
+    {
+      "file": "coriander-powder.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ground-coriander--200G-35JYM0uhoNKU71LTXibFTJ6wLsYAou.png"
+    },
+    {
+      "file": "coriander-powder-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ground-coriander--200G%202-tHCOAsVUVkIXWdLaHrdI9HU6fUI04n.png"
+    },
+    {
+      "file": "whole-black-pepper.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/PEPPER-200G-EvAs6wGOtBPXzx6866vN1qtHFVjsxO.png"
+    },
+    {
+      "file": "whole-black-pepper-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/PEPPER-200G%202-H2Bwgvh4XE2QJkHXdzkKpCkgzVPXKX.png"
+    },
+    {
+      "file": "whole-clove.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/clove-200G-kF7ONIqEUNtpuGgpMU71eAkBjlmoEC.png"
+    },
+    {
+      "file": "whole-clove-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/clove-200G%202-I2tv6skXi6eiKxURIlxgH3p6KZGtTN.png"
+    },
+    {
+      "file": "poppy-seed.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/poppy-seed--200G-WvJ3n1IBjNFnz6myTYqgKa3j0MWbCg.png"
+    },
+    {
+      "file": "poppy-seed-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/poppy-seed--200G%202-xtBGgCAmnwj7KrSpLt65bZmTjMK1tR.png"
+    },
+    {
+      "file": "sesame-seeds.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/sesame-seeds-200G-9K98Vk5DfCNi27imkEzmWRj5QFRrDH.png"
+    },
+    {
+      "file": "sesame-seeds-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/sesame-seeds-200G%202-yBR5l3ub6j4gaeRFvjPkAWuMtUDJj1.png"
+    },
+    {
+      "file": "turmeric-powder.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/TURMERIC-POWDER-200G-KGw5uDRT65iQ0Wq5arr2JoiZCUCDLe.png"
+    },
+    {
+      "file": "turmeric-powder-hover.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/TURMERIC-POWDER-200G%202-DNJeRfJZqeKIG5EbRKaL6hyb0RzqmV.png"
+    },
+    {
+      "file": "pantry-banner.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/front%20banner-boWQFYh3LSBt7BuQZHUngLzlUKiw0s.webp"
+    }
+  ]
+}

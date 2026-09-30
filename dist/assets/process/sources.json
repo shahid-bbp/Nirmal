@@ -1,0 +1,21 @@
+{
+  "source": "https://keerthiagro.com/Process",
+  "assets": [
+    {
+      "file": "rice-fields.webp",
+      "url": "https://keerthiagro.com/images/process-rice-field.png"
+    },
+    {
+      "file": "rice-grains.webp",
+      "url": "https://keerthiagro.com/images/rice-grains-close.png"
+    },
+    {
+      "file": "rice-milling.webp",
+      "url": "https://keerthiagro.com/images/process-milling.png"
+    },
+    {
+      "file": "processing-flow.webp",
+      "url": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/rice-processing-flow-j36BJGIgn8nmjfEoWXwCIPGlzzoMK9.webp"
+    }
+  ]
+}
