@@ -70,4 +70,13 @@ await writeFile(new URL('blog-detail.html',root),withNavigation(detailShell(feat
 
 const process = await readFile(new URL('../content/process-main.html',import.meta.url),'utf8');
 await writeFile(new URL('process.html',root),withNavigation(shell('process','Our Process — From Field to Plate','Follow the Keerthi Nirmal rice processing journey, from paddy sourcing and milling to parboiling, quality control and responsible production.',process),'process'));
-console.log(`Built process.html and blog.html with ${articles.length} articles.`);
+const privacyPolicy = await readFile(new URL('../content/privacy-policy-main.html',import.meta.url),'utf8');
+const privacyPage = shell('privacy-policy','Privacy Policy','Learn how Keerthi Nirmal collects, uses, and protects personal information when you visit our website.',privacyPolicy)
+  .replace('<script src="privacy-policy.js" defer></script>','');
+await writeFile(new URL('privacy-policy.html',root),withNavigation(privacyPage,'privacy-policy'));
+const termsConditions = await readFile(new URL('../content/terms-conditions-main.html',import.meta.url),'utf8');
+const termsPage = shell('terms-conditions','Terms & Conditions','Read the terms and conditions for using the Keerthi Nirmal Rice Industries website.',termsConditions)
+  .replace('href="terms-conditions.css"','href="privacy-policy.css"')
+  .replace('<script src="terms-conditions.js" defer></script>','');
+await writeFile(new URL('terms-conditions.html',root),withNavigation(termsPage,'terms-conditions'));
+console.log(`Built process.html, privacy-policy.html, terms-conditions.html and blog.html with ${articles.length} articles.`);

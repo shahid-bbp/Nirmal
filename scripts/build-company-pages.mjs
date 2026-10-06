@@ -35,6 +35,9 @@ for (const file of await readdir(root)) {
   if (!file.endsWith('.html')) continue;
   const url = new URL(file,root);
   const html = await readFile(url,'utf8');
-  await writeFile(url,withNavigation(html,file.replace('.html','')));
+  const legalLinks = html
+    .replaceAll('href="https://keerthiagro.com/privacy-policy"','href="privacy-policy.html"')
+    .replaceAll('href="https://keerthiagro.com/terms-conditions"','href="terms-conditions.html"');
+  await writeFile(url,withNavigation(legalLinks,file.replace('.html','')));
 }
 console.log('Built About, Corporate Strategy and FAQ; synchronized site navigation.');
