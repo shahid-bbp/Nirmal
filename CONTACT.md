@@ -12,17 +12,15 @@ Interactions include a gently moving landscape and note, rotating seal, animated
 
 ## Forms
 
-There is **no backend, automatic email delivery, or newsletter service configured**. The forms honestly prepare an email draft, then offer an **Open email draft** link. The visitor reviews and sends it using their own email application. No success message claims an enquiry was delivered or a subscription was completed.
+The enquiry form submits directly to FormSubmit. The browser validates required fields, then FormSubmit sends the enquiry to `care@keerthinirmal.com`. The form is submitted within a hidden iframe so the fields are cleared only after FormSubmit finishes processing the request. FormSubmit receives the enquiry subject, reply-to address, topic, and message fields, and handles the email delivery.
 
 - Enquiries default to `care@keerthinirmal.com`.
-- Choosing Careers routes the draft to `hr@nirmalrice.com`.
 - The partnership and career calls to action select their topic, suggest a subject, move to the form, and focus the name field.
-- A custom subject is preserved when the topic changes.
 - Name, email, subject, and message are required. Phone is optional. Inline validation checks email, optional phone, and a minimum 10-character message. A live character count accompanies the message.
-- Both newsletter forms prepare subscription requests addressed to customer care.
-- Form contents are not sent over the network or persisted in browser storage by this site. Session storage records only animation preferences.
+- The newsletter forms continue to prepare email drafts in the visitor's email application.
+- Form contents are not persisted in browser storage. Session storage records only animation preferences.
 
-To add direct submission later, connect the form submit handlers in `dist/contact.js` to the chosen service. Show a sent/subscribed confirmation only after that service confirms success.
+FormSubmit must be granted permission to send email from the configured recipient address. The production destination is `care@keerthinirmal.com`.
 
 ## Accessibility and verification
 

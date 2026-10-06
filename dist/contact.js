@@ -6,8 +6,22 @@
   const topics = [...form.querySelectorAll('input[name="topic"]')];
   const subject = form.elements.subject;
   const message = form.elements.message;
-  const result = document.getElementById('enquiry-result');
-  const draftLink = document.getElementById('enquiry-draft');
+  const formSubmitSubject = form.elements._subject;
+  const formSubmitReplyTo = form.elements._replyto;
+  const successMessage = document.getElementById('enquiry-success');
+  const submissionFrame = document.createElement('iframe');
+  let submissionPending = false;
+  submissionFrame.name = 'enquiry-submit-frame';
+  submissionFrame.hidden = true;
+  submissionFrame.setAttribute('aria-hidden', 'true');
+  document.body.append(submissionFrame);
+  form.target = submissionFrame.name;
+  submissionFrame.addEventListener('load', () => {
+    if (!submissionPending) return;
+    submissionPending = false;
+    form.reset();
+    successMessage.hidden = false;
+  });
   let lastAutoSubject = '';
   const subjects = {
     Products: 'Product enquiry',
@@ -18,7 +32,7 @@
     Careers: 'Career enquiry',
   };
   const selectedTopic = () => topics.find(input => input.checked)?.value || 'General enquiry';
-  const recipient = () => selectedTopic() === 'Careers' ? 'hr@nirmalrice.com' : 'care@keerthinirmal.com';
+  const recipient = () => 'care@keerthinirmal.com';
   const mailto = (to, title, body) => `mailto:${to}?subject=${encodeURIComponent(title.replace(/[\r\n]/g, ' '))}&body=${encodeURIComponent(body)}`;
 
   function validationMessage(field) {
@@ -45,8 +59,7 @@
       lastAutoSubject = subject.value;
       if (subject.hasAttribute('aria-invalid')) validate(subject);
     }
-    result.hidden = true;
-    form.action = `mailto:${recipient()}`;
+    form.action = `https://formsubmit.co/${recipient()}`;
   }
   topics.forEach(input => input.addEventListener('change', () => changeTopic()));
   document.querySelectorAll('[data-enquiry-topic]').forEach(link => link.addEventListener('click', () => {
@@ -60,27 +73,26 @@
   fields.forEach(field => {
     field.addEventListener('blur', () => { if (field.value || field.hasAttribute('aria-invalid')) validate(field); });
     field.addEventListener('input', () => {
-      result.hidden = true;
+      successMessage.hidden = true;
       if (field.getAttribute('aria-invalid') === 'true') validate(field);
     });
   });
+  topics.forEach(input => input.addEventListener('change', () => { successMessage.hidden = true; }));
   message.addEventListener('input', () => {
     document.getElementById('message-count').textContent = `${message.value.length.toLocaleString('en-IN')} / 2,000`;
   });
   form.noValidate = true;
   form.querySelector('button[type="submit"]').disabled = false;
   form.addEventListener('submit', event => {
-    event.preventDefault();
     const valid = fields.map(validate).every(Boolean);
     if (!valid) {
+      event.preventDefault();
       fields.find(field => field.getAttribute('aria-invalid') === 'true')?.focus();
       return;
     }
-    const values = Object.fromEntries(new FormData(form));
-    const body = `Hello Keerthi Nirmal,\n\n${values.message.trim()}\n\nName: ${values.name.trim()}\nEmail: ${values.email.trim()}\nPhone: ${values.phone.trim() || 'Not provided'}\nEnquiry: ${values.topic}`;
-    draftLink.href = mailto(recipient(), values.subject.trim(), body);
-    document.getElementById('draft-recipient').textContent = recipient();
-    result.hidden = false;
+    formSubmitSubject.value = `${selectedTopic()} — ${subject.value.trim()}`;
+    formSubmitReplyTo.value = form.elements.email.value.trim();
+    submissionPending = true;
   });
 
   document.querySelectorAll('.newsletter-form').forEach(newsletter => {

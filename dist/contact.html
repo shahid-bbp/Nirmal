@@ -61,7 +61,11 @@
     <section class="contact-workspace contact-container" id="send-message" aria-labelledby="message-title">
       <div class="message-panel">
         <div class="message-heading"><p class="contact-eyebrow">01 / A CONVERSATION STARTS HERE</p><h2 id="message-title">Send us<br>a <em>message.</em></h2><p>A question, an idea, a new possibility.<br>Tell us what's on your mind.</p></div>
-        <form id="enquiry-form" class="enquiry-form" action="mailto:care@keerthinirmal.com" method="get">
+        <form id="enquiry-form" class="enquiry-form" action="https://formsubmit.co/care@keerthinirmal.com" method="POST">
+          <input type="hidden" name="_subject" value="New enquiry">
+          <input type="hidden" name="_replyto" value="">
+          <input type="hidden" name="_template" value="table">
+          <input type="hidden" name="_captcha" value="false">
           <fieldset class="enquiry-topics"><legend>I'd like to talk about</legend><div class="topic-options"><label><input type="radio" name="topic" value="Products"><span>Products</span></label><label><input type="radio" name="topic" value="Partnerships"><span>Partnerships</span></label><label><input type="radio" name="topic" value="Distribution"><span>Distribution</span></label><label><input type="radio" name="topic" value="Exports"><span>Exports</span></label><label><input type="radio" name="topic" value="General enquiry" checked><span>General enquiry</span></label><label><input type="radio" name="topic" value="Careers"><span>Careers</span></label></div></fieldset>
           <div class="form-grid">
             <div class="contact-field"><label for="enquiry-name">Your name <span>*</span></label><input id="enquiry-name" name="name" autocomplete="name" placeholder="How should we call you?" maxlength="100" required aria-describedby="name-error"><span class="field-error" id="name-error"></span></div>
@@ -70,8 +74,8 @@
             <div class="contact-field"><label for="enquiry-subject">Subject <span>*</span></label><input id="enquiry-subject" name="subject" placeholder="What would you like to discuss?" maxlength="140" required aria-describedby="subject-error"><span class="field-error" id="subject-error"></span></div>
             <div class="contact-field field-message"><label for="enquiry-message">Your message <span>*</span></label><textarea id="enquiry-message" name="message" rows="4" placeholder="A little detail will help us connect you with the right team…" minlength="10" maxlength="2000" required aria-describedby="message-error message-count"></textarea><div class="message-under"><span class="field-error" id="message-error"></span><span id="message-count">0 / 2,000</span></div></div>
           </div>
-          <div class="form-bottom"><button class="contact-button" type="submit" disabled>Send enquiry <svg aria-hidden="true"><use href="#icon-arrow"/></svg></button><p>Review and send your message<br>through your email app.</p></div>
-          <div class="form-result" id="enquiry-result" role="status" hidden><svg aria-hidden="true"><use href="#icon-mail"/></svg><div><strong>Your enquiry is ready.</strong><p>Send your draft to <span id="draft-recipient">care@keerthinirmal.com</span> using your email app.</p><a id="enquiry-draft" href="mailto:care@keerthinirmal.com">Open email draft <span aria-hidden="true">↗</span></a></div></div>
+          <div class="form-bottom"><button class="contact-button" type="submit" disabled>Send enquiry <svg aria-hidden="true"><use href="#icon-arrow"/></svg></button><p>Submits securely through<br>FormSubmit.</p></div>
+          <div class="form-result" id="enquiry-success" role="status" aria-live="polite" hidden><svg aria-hidden="true"><use href="#icon-mail"/></svg><div><strong>Enquiry submitted successfully.</strong><p>Thank you. Your message has been sent to the Keerthi Nirmal team.</p></div></div>
           <noscript><p class="form-noscript">Please email <a href="mailto:care@keerthinirmal.com">care@keerthinirmal.com</a> or call <a href="tel:+919495439873">+91 9495439873</a> to make your enquiry.</p></noscript>
         </form>
       </div>
