@@ -1,6 +1,6 @@
 .site-header{background:#f8f7eff5;backdrop-filter:blur(12px)}
 .legacy-page .site-header,.editorial-page .site-header,.contact-page .site-header{height:102px;max-width:1600px;margin-inline:auto;background:#f8f7eff5;backdrop-filter:blur(12px)}
-.site-header .brand{width:112px}
+.site-header .brand{width:136px}
 .site-header .brand img{width:100%;height:auto}
 .site-header .desktop-nav{margin:0;gap:clamp(18px,2.15vw,34px);font-size:11px;color:#264e39}
 .legacy-page .desktop-nav,.editorial-page .desktop-nav,.contact-page .desktop-nav{margin:0;gap:clamp(18px,2.15vw,34px);font-size:11px;color:#264e39}
