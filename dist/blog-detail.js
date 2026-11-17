@@ -6,7 +6,7 @@
   if (!data || !body || !relatedGrid) return;
 
   const articles = JSON.parse(data.textContent);
-  const requestedId = new URLSearchParams(location.search).get('id') || String(articles[0]?.id || '');
+  const requestedId = new URLSearchParams(location.search).get('id') || data.dataset.defaultArticleId || String(articles[0]?.id || '');
   const article = articles.find(item => String(item.id) === requestedId);
   const title = document.querySelector('[data-detail-title]');
   const category = document.querySelector('[data-detail-category]');
@@ -69,7 +69,7 @@
     related.forEach(item => {
       const card = element('article', 'detail-related-card');
       const link = element('a', 'detail-related-image');
-      link.href = `blog-detail.html?id=${encodeURIComponent(item.id)}`;
+      link.href = item.url;
       const thumbnail = document.createElement('img');
       thumbnail.src = item.image;
       thumbnail.alt = item.title;
@@ -101,18 +101,21 @@
     day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC'
   });
   document.title = `${article.title} | Keerthi Nirmal`;
-  document.querySelector('meta[name="description"]').content = article.description;
+  document.querySelector('meta[name="description"]').content = article.metaDescription || article.description;
   title.textContent = article.title;
   category.textContent = article.category;
   date.dateTime = article.date;
   date.textContent = formattedDate;
   image.src = article.image;
-  image.alt = article.title;
+  image.alt = article.imageAlt || article.title;
   description.textContent = article.description;
-  source.href = article.externalUrl;
+  source.hidden = !article.externalUrl;
+  if (article.externalUrl) source.href = article.externalUrl;
   body.replaceChildren();
 
-  if (String(article.id) === '14622') renderFeaturedStory();
+  // Full article HTML comes only from the checked-in content files at build time.
+  if (article.contentHtml) body.innerHTML = article.contentHtml;
+  else if (String(article.id) === '14622') renderFeaturedStory();
   else body.append(element('p', '', article.description));
 
   renderRelated();

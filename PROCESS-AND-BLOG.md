@@ -22,18 +22,19 @@ Both pages are ready to serve directly from `dist/`. There are no dependencies t
 
 ## Blog
 
-- The original 75 article records include titles, dates, categories, excerpts and optimized local thumbnails.
+- The catalog contains the original 75 article records plus the latest article, “How to Identify Good Quality Rice: 7 Checks Mill Labs Use” (17 November 2026), with the supplied banner.
 - Search covers titles, categories and excerpts across the entire catalog. Category, sort, search and saved-only filters combine, with 12 results per page.
 - Search and filter state is reflected in the URL, including browser back/forward navigation.
 - Bookmarks persist in this browser using local storage. They are not tied to an account; if storage is unavailable, bookmarks work for the current visit.
-- Article links open the corresponding full article in the official Keerthi Nirmal journal. This project contains the listing, not local copies of full articles.
-- With JavaScript disabled, all 75 articles remain available as regular links.
+- Article links open the existing local detail template. The latest article is available in full at `how-to-identify-good-quality-rice.html`; older stories retain their existing detail content and official journal links.
+- With JavaScript disabled, all 76 article links remain available, and the latest article's full text is readable on its dedicated page.
 - Newsletter forms prepare email subscription requests. They do not claim an email was sent or a subscription was stored; a mailing service can be connected later.
 
 ## Editing
 
 - Process content: `content/process-main.html`.
 - Blog records: `dist/data/articles.json`.
+- Latest article copy: `content/blog/how-to-identify-good-quality-rice.html`. Its `contentFile` entry in the catalog is relative to `content/`; the builder uses its `url` for the dedicated HTML page. SEO metadata is kept in the catalog, separate from the visible article.
 - Static page assembly: `scripts/build-editorial-pages.mjs`; it also reuses the navigation/footer markup in `dist/contact.html`.
 - Page styles and behavior: `dist/process.css`, `dist/process.js`, `dist/blog.css`, `dist/blog.js`.
 - Shared styles and behavior: `dist/site-pages.css`, `dist/site-pages.js`.
